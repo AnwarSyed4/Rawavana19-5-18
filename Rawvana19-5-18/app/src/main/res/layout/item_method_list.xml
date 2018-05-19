@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="2dp">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:padding="7dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tvStepNo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="step"
+            android:layout_gravity="center"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:layout_marginLeft="5dp"
+            android:ellipsize="end"
+            android:textColor="@color/color333"/>
+        <com.iprismtech.rawvana.others.MyCustomTextView1
+            android:id="@+id/tvName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="text"
+            android:layout_gravity="center"
+            android:textSize="14sp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="3dp"
+            android:ellipsize="end"
+            android:textColor="@color/test"/>
+    </LinearLayout>
+
+
+</LinearLayout>

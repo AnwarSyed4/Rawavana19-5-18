@@ -1,0 +1,173 @@
+{
+ "Mid":"8",
+    "Type":"Soups",
+"array":[
+     { 
+       "id":"s1",
+       "Name":"Beet Soup",
+       "image":"BeetSoup",
+        "YoutubeURL":"",
+       "description":"Beets offer a unique color and an earthy flavor with touches of sweetness. The coconut meat adds creaminess to the soup, and the rest of the ingredients enhance the flavor and add nutrients that make this soup a complete dish.",
+       "Method":[
+                {
+                 "steps":"Peel the beets. Remove the meat from the young coconut. Juice the lemon" 
+                },
+                {
+                 "steps":"Place beets, coconut meat, green onion, celery, basil to taste, and lemon juice (optional) in the blender and blend well for 1-2 minutes. The longer you blend it, the warmer this beautifully colored soup will get."
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":" 3 beets" 
+                },
+                {
+                 "steps":"1 young coconut"
+                },
+                {
+                 "steps":"1 green onion"
+                },
+                {
+                 "steps":"basil"
+                },
+                {
+                 "steps":"1 lemon (optional)"
+                },
+                {
+                 "steps":"3 stalks celery"
+                }
+                
+                ]
+   
+     },
+     { 
+       "id":"s2",
+       "Name":"Carrot Soup",
+       "image":"CarrotSoup",
+        "YoutubeURL":"",
+       "description":"Carrots are rich in beta carotene and vitamin A, helping you to have radiant and hydrated skin. This soup is sweet and delicious!",
+       "Method":[
+                {
+                 "steps":"Peel the carrots and orange." 
+                },
+                {
+                 "steps":"Place the carrots, orange, and dried tomatoes in the blender and blend well for 1-2 minutes. The longer you blend this soup, the warmer it will get."
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"3 large carrots" 
+                },
+                {
+                 "steps":"1 orange "
+                },
+                {
+                 "steps":"1/2 cup dehydrated tomatoes"
+                }
+                ]
+     },
+     { 
+       "id":"s3",
+       "Name":"Sweet PersimmonSoup",
+       "image":"PersimmonSoup",
+        "YoutubeURL":"",
+       "description":"This soup is known as a mono-meal because it uses only one fruit. Mono-meals digest easily and help cleanse the system. This sweet persimmon soup is perfect for staying cosy inside on a fall evening. Use very ripe Hachiya persimmons if possible, but Fuyu persimmons work perfectly fine too. I hope you love this soup as much as I do!",
+       "Method":[
+                {
+                 "steps":"Blend ripe persimmons with cinnamon powder to taste. Once the soup is smooth, serve and enjoy!" 
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"10 persimmons" 
+                },
+                {
+                 "steps":"cinnamon powder"
+                }
+                ]
+     },
+     { 
+       "id":"s4",
+       "Name":"Tomato Gazpacho",
+       "image":"Gazpacho",
+        "YoutubeURL":"",
+       "description":"Oh my goodness! This is seriously one of my favorite things to eat. It's perfect as is, but the more you let it sit, the better it gets. This meal is full of vitamins and antioxidants, so eat as much as you want. It will only do you good!",
+       "Method":[
+                {
+                 "steps":"Soak dried tomatoes for one hour. Place the soaked tomatoes, tomato juice, and celery juice in a blender with two fresh tomatoes. Pulse to get a thick consistency." 
+                },
+                {
+                 "steps":"Pour the contents from the blender into a large bowl. Chop the rest of the tomatoes and the green onion, zucchini, cucumber, bell pepper, and cilantro, and mix into the bowl along with cumin to taste (optional). Squeeze the juice of the two limes on top, and let the mixture sit for 20 to 40 minutes. This will help all the flavors blend together and create a harmonious, delicious, and hearty soup."
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"cup dried tomatoes"
+                },
+                {
+                 "steps":"2 cups tomato juice"
+                },
+                {
+                 "steps":"1 cup celery juice"
+                },
+                {
+                 "steps":"5 tomatoes"
+                },
+                {
+                 "steps":"1-2 green onions"
+                },
+                {
+                 "steps":"1/2 zucchini"
+                },
+                {
+                 "steps":"1/4 cucumber"
+                },
+                {
+                 "steps":"1 green bell pepper"
+                },
+                {
+                 "steps":"1 small bunch of cilantro"
+                },
+                {
+                 "steps":"cumin (optional)"
+                },
+                {
+                 "steps":"2 limes"
+                }
+                ]
+     },
+     { 
+       "id":"s5",
+       "Name":"Tomato Soup",
+       "image":"TomatoSoup",
+        "YoutubeURL":"https://www.youtube.com/watch?v=zcPVy8XbgeQ&index=22&list=PLsbvKobPMbGpqOrR3Og9IJn3RC5j9ChgY&t=0s",
+       "description":"Tomato is a fruit rich in vitamin C that helps keep your immune system strong to prevent sickness. Tomato soup is one of my favorites and it is a basic addition to any meal.",
+       "Method":[
+                {
+                 "steps":"Peel the zucchini." 
+                },
+                {
+                 "steps":"Place the peeled zucchini and all the remaining ingredients in the blender. Blend well for 1-2 minutes. The longer you blend this soup, the warmer it will get."
+                }
+
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1 zucchini" 
+                },
+                {
+                 "steps":"3 tomatoes"
+                },
+                {
+                 "steps":"1 cup dried tomatoes "
+                },
+                {
+                 "steps":"1 green onion"
+                },
+                {
+                 "steps":"1/2 basil to taste"
+                }
+                ]
+     }
+  
+           ]
+}

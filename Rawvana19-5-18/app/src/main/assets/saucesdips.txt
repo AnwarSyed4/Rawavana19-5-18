@@ -1,0 +1,566 @@
+{
+ "Mid":"6",
+ "Type":"Saucesdips",
+"array":[
+     { 
+       "id":"sd1",
+       "Name":"Bell Pepper Chipotle",
+       "image":"BellPepperChipotle",
+        "YoutubeURL":"",
+       "description":"This dressing has a little extra kick that I love! Give this a dressing a try to add huge flavor to any salad. If the chipotle is too spicy for you, feel free to omit it.",
+       "Method":[
+                {
+                 "steps":"Put all of the ingredients in a blender, blend, and serve." 
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":" 2 cups pineapple  " 
+                },
+                {
+                 "steps":"1/2 red bell pepper"
+                },
+                {
+                 "steps":"1/4  chipotle peppe"
+                }
+                ]
+   
+     },
+     { 
+       "id":"sd2",
+       "Name":"Coconut Dip",
+       "image":"CoconutDip",
+        "YoutubeURL":"",
+       "description":"If you love coconut, you'll love this recipe. And if you don't, you'll still love it! This dressing is tastes delicious and is perfect for your salads or as a dip for your veggies.",
+       "Method":[
+                {
+                 "steps":"Remove the meat from the coconut and put it in the blender. Juice the lemon and add the juice along with all the other ingredients, including cilantro to taste. Blend and serve!." 
+                }
+
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1 coconut" 
+                },
+                {
+                 "steps":"1/2 cup coconut water "
+                },
+                {
+                 "steps":"1 lemon"
+                },
+                {
+                 "steps":"cilantro"
+                },
+                {
+                 "steps":"1 celery stalk "
+                }
+                ]
+     },
+     { 
+       "id":"sd3",
+       "Name":"Colorado Sauce",
+       "image":"ColoradoSauce",
+        "YoutubeURL":"",
+       "description":"This sauce has a nice kick of spice, but it's not too hot. This Colorado Sauce will go great with your Mexican burritos or Mexican rice (see recipes in 'Dishes' section). As they say in Mexico, Buen Provecho!",
+       "Method":[
+                {
+                 "steps":"Soak the dried California chiles overnight." 
+                },
+                {
+                 "steps":"Remove the seeds from the soaked chiles, and discard the seeds. Blend the chiles with the bell peppers, green onion, and cumin. Squeeze in the juice from the citrus fruits and blend again to combine."
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"2 red bell peppers" 
+                },
+                {
+                 "steps":"4 dried California chiles"
+                },
+                {
+                 "steps":"1/2 lime"
+                },
+                {
+                 "steps":"1/2 orange"
+                },
+                {
+                 "steps":"1 green onion"
+                },
+                {
+                 "steps":"1 pinch of cumin"
+                },
+                {
+                 "steps":"1/2 lemon"
+                }
+                ]
+     },
+     { 
+       "id":"sd4",
+       "Name":"Corn Salsa",
+       "image":"Boats",
+        "YoutubeURL":"",
+       "description":"This dish is from Day 4 of the GET RAW Challenge, where you replace one meal a day with a raw vegan meal. For complete information on the challenge, visit my YouTube channel at www.youtube.com/rawvanaeng. Raw sweet corn is one of my favorite veggies! It's sweet, creamy, and salty at the same time. I recommend that you try this corn salsa on zucchini, cucumber, or a green salad, or even by itself.",
+       "Method":[
+                {
+                 "steps":"Place all of the ingredients (including cilantro to taste) in the blender or food processor and pulse well to obtain a chunky texture, leaving some ingredients not completely blended." 
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"2 tomatoes" 
+                },
+                {
+                 "steps":"1 red bell pepper"
+                },
+                {
+                 "steps":"2 ears of corn"
+                },
+                {
+                 "steps":"1 celery stalk"
+                },
+                {
+                 "steps":"1/4 cup red onion"
+                },
+                {
+                 "steps":" 1 avocado "
+                },
+                {
+                 "steps":"cilantro"
+                }
+                ]
+     },
+     { 
+       "id":"sd5",
+       "Name":"Creamy Avocado",
+       "image":"CreamyAvocado",
+        "YoutubeURL":"",
+       "description":"Want more richness but less fat? This might be your next favorite dressing! Avocado's creaminess is irresistible. Cilantro is a natural cleansing agent, lemon alkalizes the body, and celery provides that salty flavor due to its natural sodium content. Eat with intention, and eat foods that love you as much as you love yourself.",
+       "Method":[
+                {
+                 "steps":"Place all ingredients in blender and blend. Just like that, you've got yourself a creamy, low fat, and very nutritious dressing for your salad! Mmmm, que rico!" 
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"2 celery stalks" 
+                },
+                {
+                 "steps":"1/2 avocado"
+                },
+                {
+                 "steps":"1/2 lemon"
+                },
+                {
+                 "steps":" 1 green onion"
+                },
+                {
+                 "steps":"1 small bunch of cilantro"
+                }
+                ]
+     },
+     { 
+       "id":"sd6",
+       "Name":"Hummus Veggie Dip",
+       "image":"Hummus",
+        "YoutubeURL":"",
+       "description":"This delicious dip can be served with mixed veggies such as carrots, cucumber, jicama, celery, broccoli, or cauliflower, or can be used as a dressing over a green salad. You can also use it as a dip for snacks. It's free of salt, low in fat, and full of nutrients!",
+       "Method":[
+                {
+                 "steps":"Peel the zucchini. Juice the lime. Put the peeled zucchini, lime juice, and all the other ingredients (including parsley, cumin, cayenne pepper, and celery salt to taste) in the blender and blend well for 1 minute. Serve with your favorite vegetables. " 
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"2 tablespoons tahini" 
+                },
+                {
+                 "steps":" 1 zucchini"
+                },
+                {
+                 "steps":"1 celery stalk"
+                },
+                {
+                 "steps":"1 lime "
+                },
+                {
+                 "steps":" 1 green onion"
+                },
+                {
+                 "steps":"parsley"
+                },
+                {
+                 "steps":"cumin"
+                },
+                {
+                 "steps":" 1/4 red onioncayenne pepper"
+                },
+                {
+                 "steps":"celery salt (optional)"
+                }
+                ]
+     },
+     { 
+       "id":"sd7",
+       "Name":"Mango Dressing",
+       "image":"MangoTomatoDressing",
+        "YoutubeURL":"",
+       "description":"YES! This dressing is fabulous! Mangoes are amazing and go well in basically anything. The beauty of eating raw fruits and veggies is that you're getting amazing taste and nutrition at the same time. Eat as much as you want of this dressing, just follow the mango-tomato ratio and you're set! Enjoy!",
+       "Method":[
+                {
+                 "steps":"Place the first three ingredients into a blender, and squeeze the lime�s juice on top. Blend until smooth. That's it! Enjoy!"
+                }
+                
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1 mango " 
+                },
+                {
+                 "steps":"3 tomatoes"
+                },
+                {
+                 "steps":"1 green onion"
+                },
+                {
+                 "steps":"1/4 lime"
+                }
+                ]
+     },
+      { 
+       "id":"sd8",
+       "Name":"Orange Avocado Dressing",
+       "image":"OrangeAvocado",
+        "YoutubeURL":"",
+       "description":"This dressing tastes incredible. It's super refreshing, and I love it! I eat it as a dip, as a sauce on my food, or as a dressing on my salads. It's extremely versatile and I just know you guys will love it too!",
+       "Method":[
+                {
+                 "steps":"Peel the cucumber and oranges, and discard the peels. Put the cucumber and oranges in the blender along with the flesh of the avocado and the cilantro, blend, and serve." 
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1 1/2 oranges" 
+                },
+                {
+                 "steps":"3/4 cucumber"
+                },
+                {
+                 "steps":"1 small bunch of cilantro"
+                },
+                {
+                 "steps":"1/2 avocado"
+                }
+                ]
+     },
+      { 
+       "id":"sd9",
+       "Name":"Orange Celery Dressing",
+       "image":"OrangeCelery",
+        "YoutubeURL":"",
+       "description":"This recipe is so yummy. I love using it on my salads because it's both sweet and sour, and I just love how it tastes with my romaine lettuce leaves. Tastes it and you'll know why!",
+       "Method":[
+                {
+                 "steps":"Peel the mandarins and discard the peel. Put all of the ingredients in a blender, blend, and serve. " 
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"3 mandarins" 
+                },
+                {
+                 "steps":"1/2 red bell pepper"
+                },
+                {
+                 "steps":"1 celery stalk"
+                }
+                ]
+     },
+     { 
+       "id":"sd10",
+       "Name":"Orange Tahini Dressing",
+       "image":"OrangeTahini",
+        "YoutubeURL":"",
+       "description":"This dressing tastes amazing! The tahini gives it such a delicious flavor, and it goes very well with any salad",
+       "Method":[
+                {
+                 "steps":"Let's do this! Peel the lemon, and place it in the the juicer with the rest of the ingredients. Drink up and enjoy!" 
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":" 2 mandarins" 
+                },
+                {
+                 "steps":"3/4 cucumber"
+                },
+                {
+                 "steps":"2 tablespoons tahini"
+                }
+             
+                ]
+   
+     },
+     { 
+       "id":"sd11",
+       "Name":"Papaya Salsa",
+       "image":"PapayaSalsa",
+        "YoutubeURL":"",
+       "description":"Papaya is my favorite fruit of all time! It digests easily and is so sweet and delicious when ripe. Enjoy the flavors of Mexico in this sweet and savory salsa.",
+       "Method":[
+                {
+                 "steps":"Chop all of the ingredients except the lime into small pieces, including nopales and serrano pepper to taste, and mix together" 
+                },
+                {
+                 "steps":"Squeeze the lime's juice over the salsa. Take a spoon and enjoy! Blissful!"
+                }
+
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1 papaya"
+                },
+                {
+                 "steps":"3 tomatoes "
+                },
+                {
+                 "steps":"1 pint of cherry tomatoes"
+                },
+                {
+                 "steps":" 1 yellow bell pepper"
+                },
+                {
+                 "steps":" 1/4 red onion"
+                },
+                {
+                 "steps":"1 small bunch of cilantro"
+                },
+                {
+                 "steps":" 1 lime" 
+                },
+                {
+                 "steps":"2  zucchini "
+                },
+                {
+                 "steps":"nopales (optional)"
+                },
+                {
+                 "steps":"serrano pepper (optional)"
+                }
+                ]
+     },
+     { 
+       "id":"sd12",
+       "Name":"Pico De Gallo",
+       "image":"PicoDeGallo",
+        "YoutubeURL":"",
+       "description":" This salsa is good enough to eat on its own, or you can use it on your food or salads to give them an extra burst of flavor.",
+       "Method":[
+                {
+                 "steps":"Dice all of the ingredients and mix together, using cilantro to taste. It's that simple!."
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1 cucumber" 
+                },
+                {
+                 "steps":"6 tomatoes"
+                },
+                {
+                 "steps":"cilantro"
+                },
+                {
+                 "steps":"1 green onion"
+                }
+                ]
+     },
+     { 
+       "id":"sd13",
+       "Name":"Spicy TomatoDressing",
+       "image":"TomatoDressing",
+        "YoutubeURL":"",
+       "description":"My favorite spicy tomato dressing! I wanted a salsa with an Italian taste to evoke the deliciousness of Italian arrabbiata sauce. This sauce reminds me of that flavor. It's very easy to make and has a spicy kick to it. Yum!",
+       "Method":[
+                {
+                 "steps":"Cut each tomato into four pieces, and cut as many chills as you want to use in half. " 
+                },
+                {
+                 "steps":"Place all of the ingredients in your blender, including white onion to taste, and pulse on high so the sauce gets a chunky consistency. Pour over spiralized zucchini or salad, and enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"4 tomatoes" 
+                },
+                {
+                 "steps":" 6 basil leaves"
+                },
+                {
+                 "steps":"Thai chilis"
+                },
+                {
+                 "steps":"white oniona"
+                }
+                ]
+     },
+     { 
+       "id":"sd14",
+       "Name":"Sweet Dressing",
+       "image":"SweetDressing",
+        "YoutubeURL":"",
+       "description":" One night, my brother asked me to make him a salad. Since he likes fruit, I decided to make a sweet persimmon-based dressing. The dates and persimmon make a great combination on top of crunchy greens. Being from Mexico, my brother and I both like to take it up a notch and add some serrano pepper for a nice kick.",
+       "Method":[
+                {
+                 "steps":"Pit the dates and juice the lemon, discarding the pits and rind. Put all of the ingredients in a blender, using mint to taste. Blend and serve!" 
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"3 dates " 
+                },
+                {
+                 "steps":"1/2 cup strawberries"
+                },
+                {
+                 "steps":"2 tablespoons chia seeds"
+                },
+                {
+                 "steps":"1/2 lemon"
+                },
+                {
+                 "steps":"mint leaves"
+                }
+                ]
+     },
+           {
+             "id":"sd15",
+             "Name":"Tahini Dressing",
+             "image":"OrangeTahini",
+              "YoutubeURL":"",
+             "description":"Tahini is a great fat to incorporate into your daily diet because it has a high alkaline content which will help boost your immune system. It's high in unsaturated fat (which is a good fat), but remember, a little goes a long way. This dressing is so delicious and tastes great on a bed of mixed greens and cherry tomatoes.",
+             "Method":[
+                      {
+                       "steps":"Place the first four ingredients into a blender, and squeeze the lemon's juice on top. Blend until smooth, and voila, you've got yourself a delicious salad dressing. !"
+                      }
+                    ],
+            "Ingredients":[
+                      {
+                       "steps":"1 bell pepper (any color)"
+                      },
+                      {
+                       "steps":"1 tablespoon tahini"
+                      },
+                      {
+                       "steps":"1/2 zucchini"
+                      },
+                      {
+                       "steps":"1/2 green onion"
+                      },
+                      {
+                       "steps":"1/2 lemon"
+                      }
+                      ]
+           },
+                       {
+                         "id":"sd16",
+                         "Name":"Tomatillo Dressing",
+                         "image":"TomatilloDressing",
+                          "YoutubeURL":"",
+                         "description":"This delicious dressing is light yet rich, with the avocado adding a creaminess that balances out the brightness of the tomatillos. Use a bit of serrano pepper to add heat and give the dressings flavor another layer! Pour this dressing over your favorite raw noodles, jicama rice, or fresh greens. Its also a great dipping sauce for celery, carrots, and snap peas.",
+                         "Method":[
+                                  {
+                                   "steps":"Juice the lime. Place the lime juice and all of the other ingredients in the blender. Pulse to get a thick consistency, or blend on high for a smoother consistency."
+                                  }
+
+                                ],
+                        "Ingredients":[
+                                  {
+                                   "steps":"5 tomatillos "
+                                  },
+                                  {
+                                   "steps":"1 avocado"
+                                  },
+                                  {
+                                   "steps":"1 small bunch of cilantro"
+                                  },
+                                  {
+                                   "steps":"1 lime"
+                                  },
+                                  {
+                                   "steps":"serrano pepper (optional)"
+                                  }
+                                  ]
+                       },
+                                                {
+                                                 "id":"sd17",
+                                                 "Name":"Tomato Basil",
+                                                 "image":"TomatoBasil",
+                                                  "YoutubeURL":"",
+                                                 "description":"Basil, which is sweet and savory at the same time, is definitely one of my favorite herbs. It's so versatile that it can go in smoothies, dressings, salads, and even juices. I sometimes make a lot of this dressing as a soup, because it's that good!",
+                                                 "Method":[
+                                                          {
+                                                           "steps":"Place all ingredients in blender (using basil leaves to taste), blend, and its ready! Eating raw is fast and easy."
+                                                          }
+                                                        ],
+                                                "Ingredients":[
+                                                          {
+                                                           "steps":"3 tomatoes"
+                                                          },
+                                                          {
+                                                           "steps":"2 celery stalks"
+                                                          },
+                                                          {
+                                                           "steps":"1 green onion"
+                                                          },
+                                                          {
+                                                           "steps":"basil leaves"
+                                                          }
+                                                          ]
+                                               },
+                                                {
+                                                 "id":"sd18",
+                                                 "Name":"Watermelon Salsa",
+                                                 "image":"WatermelonSalsa",
+                                                  "YoutubeURL":"",
+                                                 "description":"We all know what delicious fruit is in season during summer: watermelon! This summer salsa is refreshing, sweet, and spicy all at once. It's ideal for a hot day when you have friends over. They�ll all be wanting more! Use bell peppers of two different colors for extra vibrancy.",
+                                                 "Method":[
+                                                          {
+                                                           "steps":"Cut off the ends of the watermelon, set it down on a cutting board, and cut off the rest of its rind. It should look like a watermelon ball. Slice the watermelon ball, then cut it into small pieces. "
+                                                          },
+                                                          {
+                                                           "steps":"Dice the bell peppers, tomatoes, jalape'o to taste, cilantro, and red onion. Mix them with the watermelon in a large bowl."
+                                                          },
+                                                          {
+                                                           "steps":"Squeeze the lime's juice all over the salsa to get a tangy taste"
+                                                          }
+                                                        ],
+                                                "Ingredients":[
+                                                          {
+                                                           "steps":"1 seedless watermelon"
+                                                          },
+                                                          {
+                                                           "steps":"1 orange bell pepper"
+                                                          },
+                                                          {
+                                                           "steps":"1 yellow bell pepper"
+                                                          },
+                                                          {
+                                                           "steps":"4 tomatoes"
+                                                          },
+                                                          {
+                                                           "steps":"1/2 red onion"
+                                                          },
+                                                          {
+                                                           "steps":"1 small bunch of cilantro"
+                                                          },
+                                                          {
+                                                           "steps":"1 lime"
+                                                          },
+                                                          {
+                                                           "steps":"jalape'o (optional)"
+                                                          }
+                                                          ]
+                                               }
+
+           ]
+}

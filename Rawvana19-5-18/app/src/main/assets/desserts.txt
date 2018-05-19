@@ -1,0 +1,383 @@
+{
+ "Mid":"2",
+ "Type":"Desserts",
+"array":[
+     { 
+       "id":"d1",
+       "Name":"Berry Sundae",
+       "image":"BerrySundae",
+        "YoutubeURL":"",
+       "description":"Try this on a hot summer day. It's low fat, so no stress, and you can eat as much as you want! This is a delicious and healthy way to get your ice cream fix.",
+       "Method":[
+                {
+                 "steps":"Freeze your bananas. Soak dates for about 2 hours. Place the soaked dates, carob, vanilla bean, mulberries, and water in blender and blend well. The sauce should have a thick liquid consistency." 
+                },
+                {
+                 "steps":"Place your frozen bananas, raspberries, and blueberries in the blender and blend well to make ice cream. Pour the date sauce over your ice cream and enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":" 6 bananas" 
+                },
+                {
+                 "steps":"1 cup frozen blueberries"
+                },
+                {
+                 "steps":"1 cup frozen raspberries"
+                },
+                {
+                 "steps":"1 cup dates"
+                },
+                {
+                 "steps":"1 tablespoon carob powder"
+                },
+                {
+                 "steps":"1/2 cup dried mulberries"
+                },
+                {
+                 "steps":"1/2 cup water"
+                },
+                {
+                 "steps":"1 small piece of vanilla bean"
+                }
+                ]
+   
+     },
+     { 
+       "id":"d2",
+       "Name":"Caramel Apple",
+       "image":"CaramelApple",
+        "YoutubeURL":"",
+       "description":"It's so amazing to be able to make desserts out of raw fruits. This is a healthful option for a dessert or even a meal. It's not only delicious but fun to make, fun to eat, and fun to look at because it's so pretty! Shows eating raw doesn't have to be boring",
+       "Method":[
+                {
+                 "steps":"Soak the dates in water for 3-5 hours. Drain, then blend them with  cup water."
+                },
+                {
+                 "steps":"Insert a wooden stick into the top of an apple, then cover the entire apple with date paste using a small spatula."
+                },
+                {
+                 "steps":"Roll your apples around on your desired toppings. Some ideas include cinnamon, nutmeg, carob powder, and crushed almonds."
+                }
+
+              ],
+      "Ingredients":[
+                {
+                 "steps":"5 apples" 
+                },
+                {
+                 "steps":"15 dates "
+                },
+                {
+                 "steps":"1/4 cup water"
+                },
+                {
+                 "steps":"almonds (optional)"
+                },
+                {
+                 "steps":"cinnamon (optional)"
+                },
+                {
+                 "steps":"nutmeg (optional)"
+                },
+                {
+                 "steps":"carob powder (optional)"
+                }
+                ]
+     },
+     { 
+       "id":"d3",
+       "Name":"Chia Pudding",
+       "image":"ChiaSeed",
+        "YoutubeURL":"",
+       "description":"Before eating raw, I had never tried anything like this. If you haven't either, I'm sure you'll love it! It's sweet, healthy, and perfect for either breakfast or dessert. Top it off with your favorite fruit!",
+       "Method":[
+                {
+                 "steps":"Mix the chia seeds with the almond milk and vanilla powder (to taste). Refrigerate for 2-3 hours, then eat and enjoy!" 
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1/2 cup chia seeds"
+                },
+                {
+                 "steps":"1 cup almond milk"
+                },
+                {
+                 "steps":"vanilla powder"
+                }
+                ]
+     },
+     { 
+       "id":"d4",
+       "Name":"Coconut Cream Cookies",
+       "image":"OreoCookie",
+        "YoutubeURL":"",
+       "description":"Oreo cookies were some of my favorites before going raw, but I never ate too many because processed food made me feel tired and heavy. One day, it popped into my mind to try making the raw version! I thought I'd be a fun idea, and they turned out to absolutely scrumptious!! If you have kids, I'm sure they will have a lot of fun making them.",
+       "Method":[
+                {
+                 "steps":"Soak the dates for about two hours. Place the dried white mulberries in a blender and blend on high to make them into a powder." 
+                },
+                {
+                 "steps":"Place the soaked dates, powdered mulberries, raw carob powder, and vanilla bean into a food processor with an S blade. Blend on high until all of the ingredients are mixed well and create a mushy texture"
+                },
+                {
+                 "steps":"Start forming the cookie batter into cookie shapes on a piece of waxed paper. When you are done, place them in the freezer for 2-3 hours depending on how hard you want them to be."
+                },
+                {
+                 "steps":"Scoop the coconut meat from the coconut and place it in a food processor equipped with the S blade. Add the dried coconut and vanilla bean. Process well."
+                },
+                {
+                 "steps":"Take out the cookies from the freezer and place a little of the white frosting on each one. Take cookie halves and start pairing them up on top of each other. Place in freezer again for an hour or so if desired to let them harden even more. After that's done, take out and enjoy! They are SO GOOD!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"30 dates" 
+                },
+                {
+                 "steps":"2 cups dried white mulberries"
+                },
+                {
+                 "steps":"3 tablespoons carob powder"
+                },
+                {
+                 "steps":"2 young coconuts"
+                },
+                {
+                 "steps":"2 tablespoons dehydrated coconut"
+                },
+                {
+                 "steps":"1 small piece of vanilla bean"
+                }
+                ]
+     },
+     { 
+       "id":"d5",
+       "Name":"Fruit Parfait",
+       "image":"FruitParfait",
+        "YoutubeURL":"",
+       "description":"Enjoy the decadent flavors of fall and winter fruits with this delicious and sweet parfait! I made this for my family on Christmas Eve and they all loved it! The blackberries add a really nice tart note to this sweet dish",
+       "Method":[
+                {
+                 "steps":"Cut up 2 persimmons and both apples into small pieces. Deseed pomegranates. Mix together." 
+                },
+                {
+                 "steps":"Blend the remaining 2 persimmons with the dates and pinch of cinnamon. Pour over diced fruit and mix together"
+                }
+,
+                {
+                 "steps":"Blend the dried mulberries on high to grind them."
+                }
+,
+                {
+                 "steps":"Take a cup or bowl and place a layer of the fruit with sauce inside. Follow that with a layer of dried mulberries. Repeat these layers until the cup or bowl is full. Finish with the ground mulberries, then top with the beautiful blackberries. Gorgeous and delicious!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"4 persimmons" 
+                },
+                {
+                 "steps":"2 dates"
+                },
+                {
+                 "steps":"2 apples"
+                },
+                {
+                 "steps":"3 pomegranates"
+                },
+                {
+                 "steps":"1 cup dried mulberries"
+                },
+                {
+                 "steps":"1/5 cup blackberries"
+                },
+                {
+                 "steps":"1 small pinch of cinnamon powder"
+                }
+                ]
+     },
+     { 
+       "id":"d6",
+       "Name":"Mango Pineapple IceCream",
+       "image":"MangoPineappleIceCream",
+        "YoutubeURL":"",
+       "description":"This recipe is delicious and is perfect for warm weather. Prepare your ice cream and share it with all your friends! You're going to love it, and so will they!",
+       "Method":[
+                {
+                 "steps":"pineapple" 
+                },
+                {
+                 "steps":"Place ice cream ingredients in a food processor. Process until smooth and creamy"
+                },
+                {
+                 "steps":"Cube the remaining mango and pineapple. Put salsa in a tall glass, followed by a layer of mango and pineapple, followed by ice cream. Top off with more salsa and fresh fruit!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"2 cups frozen mango" 
+                },
+                {
+                 "steps":"1/2 cups frozen pineapple"
+                },
+                {
+                 "steps":"1 tamarind"
+                },
+                {
+                 "steps":"chipotle powder"
+                },
+                {
+                 "steps":"2 limes"
+                },
+                {
+                 "steps":"1 red bell pepper"
+                },
+                {
+                 "steps":"mango"
+                },
+                {
+                 "steps":"pineapple"
+                }
+                ]
+     },
+     { 
+       "id":"d7",
+       "Name":"Coconut Yogurt",
+       "image":"CoconutYogurt",
+        "YoutubeURL":"https://www.youtube.com/watch?v=wOngOCJC5-M&index=4&list=PLsbvKobPMbGpqOrR3Og9IJn3RC5j9ChgY&t=0s",
+       "description":"This recipe is so delicious, and is perfect for those of you looking for an alternative to dairy yogurt. It is natural, delicious, and perfect to share with your family and friends. It won't disappoint!",
+       "Method":[
+                {
+                 "steps":"Scoop the meat out of the young coconuts, then blend the meat with the coconut water, dates, and the juice from the lemon. Your yogurt is ready! In a plate or cup, add kiwis and strawberries (or your fruit of choice) to the yogurt to make a parfait." 
+                }
+                
+              ],
+      "Ingredients":[
+                {
+                 "steps":"2 young coconuts " 
+                },
+                {
+                 "steps":"1/7'4 cup coconut water"
+                },
+                {
+                 "steps":"2 dates"
+                },
+                {
+                 "steps":"1/2 lemon"
+                },
+                {
+                 "steps":"kiwis"
+                },
+                {
+                 "steps":"strawberries"
+                }
+                ]
+     },
+      { 
+       "id":"d8",
+       "Name":"Persimmon Cobbler",
+       "image":"PersimmonCobbler",
+        "YoutubeURL":"",
+       "description":"Persimmons, persimmons! They simply taste like the holiday season. This persimmon cobbler is perfect for a meal or dessert and you will be sure to WOW yourself and loved ones with this flavor explosion! Share the gift of health! If you can't find cherimoyas, feel free to substitute bananas.",
+       "Method":[
+                {
+                 "steps":"Let's do a little chopping. Peel and chop your Fuyu persimmons into small squares." 
+                },
+                {
+                 "steps":"Juice the lemon. Blend your very ripe persimmon with the dates, cinnamon, nutmeg, half of the vanilla bean, and half of the juice from the lemon. Mix the cubed persimmons well with the blended mixture."
+                },
+                {
+                 "steps":"Separately, blend the cherimoyas with the remaining lemon juice and vanilla bean to make a cream."
+                },
+                {
+                 "steps":"Take dried mulberries and crush them into very small pieces in the blender. Now prettily plate your persimmon cobbler with the cream and crushed mulberries, and enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"4 Fuyu persimmons" 
+                },
+                {
+                 "steps":"1 very ripe persimmon"
+                },
+                {
+                 "steps":"2 dates"
+                },
+                {
+                 "steps":"2 cherimoyas"
+                },
+                {
+                 "steps":"1 lemon"
+                },
+                {
+                 "steps":"1-inch piece of vanilla bean"
+                },
+                {
+                 "steps":"1 pinch of ground cinnamon"
+                },
+                {
+                 "steps":"1 pinch of ground nutmeg "
+                },
+                {
+                 "steps":"1/2 cup dried mulberries"
+                }
+                ]
+     },
+      { 
+       "id":"d9",
+       "Name":"RawVegan Brownie",
+       "image":"RawVeganBrownie",
+        "YoutubeURL":"",
+       "description":"We all have a sweet tooth, but that doesn't mean we should eat unhealthy desserts. What if there were a satisfying raw vegan alternative? There is! My raw vegan brownie recipe is delicious and, best of all, you won't feel guilty after eating that brownie!",
+       "Method":[
+                {
+                 "steps":"Soak dates for 1-2 hours." 
+                },
+                {
+                 "steps":"Place all ingredients for the brownies in a food processor, and process thoroughly."
+                },
+                {
+                 "steps":"Using hands and a spatula, place mix in a glass baking dish. Enjoy it as it is or place some chocolate pudding on top. To make the pudding, simply blend all of the pudding ingredients until smooth."
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"15 dates" 
+                },
+                {
+                 "steps":"1 cup almond flour"
+                },
+                {
+                 "steps":"4 tablespoons cocoa powder"
+                },
+                {
+                 "steps":"4 tablespoons cocoa powder"
+                },
+                {
+                 "steps":"1 teaspoon maca"
+                },
+                {
+                 "steps":"1 pinch sea salt"
+                },
+                {
+                 "steps":"1 avocado"
+                },
+                {
+                 "steps":"5 dates "
+                },
+                {
+                 "steps":"2 tablespoons cocoa powder"
+                },
+                {
+                 "steps":"1 pinch vanilla powder"
+                }
+                ]
+     }
+      
+
+  
+           ]
+}

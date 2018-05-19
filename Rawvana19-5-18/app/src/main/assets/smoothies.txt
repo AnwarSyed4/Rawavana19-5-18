@@ -1,0 +1,773 @@
+{
+ "Mid":"7",
+ "Type":"Smoothies",
+"array":[
+     {
+       "id":"sm1",
+       "Name":"Aloe Smoothie",
+       "image":"AloeSmoothie",
+        "YoutubeURL":"",
+       "description":"Aloe vera is known as a miraculous plant for its many healing properties for both the exterior and interior of the body. Aloe vera is amazing at treating any sort of inflammation. I hope you enjoy this naturally healing smoothie!",
+       "Method":[
+                {
+                 "steps":"Peel the aloe vera with a knife. Discard the peel and place the inside of the aloe vera in your blender along with the rest of your ingredients. Blend up!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":" 5 bananas "
+                },
+                {
+                 "steps":"4 celery stalks"
+                },
+                {
+                 "steps":"2 inches aloe vera"
+                },
+                {
+                 "steps":"4 dates"
+                },
+                {
+                 "steps":"2 cups water"
+                }
+                ]
+
+     },
+     {
+       "id":"sm2",
+       "Name":"Anti Flu Smoothie",
+       "image":"AntiFluSmoothie",
+        "YoutubeURL":"",
+       "description":"My brother was getting sick one day with the flu, and he inspired me to make an Anti-Flu smoothie recipe. I researched the ingredients that help fight cough, fever, and mucus, and put them together to make a delicious smoothie. He absolutely loved it, and the next day he reported feeling fine with no flu symptoms.",
+       "Method":[
+                {
+                 "steps":"Juice 8 oranges. Juice the ginger as well, and mix the ginger juice and orange juice together."
+                },
+                {
+                 "steps":"Peel the other two oranges. Put the juice and all the other ingredients in the blender. Turn on high, blend, pour, enjoy, and get well soon! "
+                }
+
+              ],
+      "Ingredients":[
+                {
+                 "steps":"10 oranges"
+                },
+                {
+                 "steps":"young coconut "
+                },
+                {
+                 "steps":"1 cup pineapple"
+                },
+                {
+                 "steps":"1 pinch of cayenne pepper"
+                },
+                {
+                 "steps":"1 small piece of ginger "
+                }
+                ]
+     },
+     {
+       "id":"sm3",
+       "Name":"Banana Chocolate",
+       "image":"BananaGrape",
+        "YoutubeURL":"",
+       "description":"This smoothie tastes so delicious that you won?t believe it?s actually good for you! The taste of the carob powder will have you thinking you?re eating a dessert while you?re consuming a lot of nutrients that are important for your overall health. Kids will love it, and you will love it too!",
+       "Method":[
+                {
+                 "steps":"Put the bananas in the freezer until they?re frozen. Remove the pits from the dates. Blend all the ingredients together (including cinnamon to taste), serve, and enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"3 bananas"
+                },
+                {
+                 "steps":"2 cups coconut water"
+                },
+                {
+                 "steps":"4 dates"
+                },
+                {
+                 "steps":"1/2 tablespoon vanilla powder"
+                },
+                {
+                 "steps":"1 tablespoon raw carob powder"
+                },
+                {
+                 "steps":"cinnamon"
+                }
+                ]
+     },
+     {
+       "id":"sm4",
+       "Name":"Banana Mylk",
+       "image":"BananaMylk",
+        "YoutubeURL":"",
+       "description":"This is a great substitution for dairy milk and tastes much better! Banana Mylk is rich in calcium and will keep your bones strong! If this is too coconutty for you, substitute water for the coconut water.",
+       "Method":[
+                {
+                 "steps":"Optionally, freeze the bananas for a colder drink. Remove the pits from the dates. Place all of the ingredients in a blender (including vanilla to taste) and blend well. Drink up, it?s absolutely delish!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"2 bananas "
+                },
+                {
+                 "steps":"3 cups coconut water "
+                },
+                {
+                 "steps":"3 dates "
+                },
+                {
+                 "steps":"vanilla bean or vanilla extract"
+                }
+                ]
+     },
+     {
+       "id":"sm5",
+       "Name":"Banana Nectar",
+       "image":"BananaNectar",
+        "YoutubeURL":"",
+       "description":"Bananas are a great base for any smoothie, onto which you can layer the flavors of a variety of other fruits. This sweet, vitamin-packed smoothie will surely fill you with glee!",
+       "Method":[
+                {
+                 "steps":"Place all of the ingredients into a blender, and blend until smooth. Voila!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"5 bananas"
+                },
+                {
+                 "steps":"3 nectarines"
+                },
+                {
+                 "steps":"2 cups strawberries"
+                },
+                {
+                 "steps":" 1 cup water"
+                }
+                ]
+     },
+     {
+       "id":"sm6",
+       "Name":"Breakfast Smoothie",
+       "image":"BreakfastSmoothie",
+        "YoutubeURL":"",
+       "description":"This smoothie is perfect for those days when you don?t have enough time to make yourself breakfast (or you?re just feeling lazy!). With this smoothie, you will feel full and satisfied all morning long! It?s the perfect breakfast replacement to get your day off to an amazing start.",
+       "Method":[
+                {
+                 "steps":"Put all of the ingredients in a blender. Blend, serve, and enjoy! "
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"2 cups grapes"
+                },
+                {
+                 "steps":" 1 cup strawberries"
+                },
+                {
+                 "steps":"1 banana"
+                },
+                {
+                 "steps":"1 kale leaf "
+                },
+                {
+                 "steps":"1 cup coconut water"
+                }
+                ]
+     },
+     {
+       "id":"sm7",
+       "Name":"Carbolicious Smoothie",
+       "image":"Carbolicious",
+        "YoutubeURL":"",
+       "description":"This delicious smoothie will satiate your hunger and sweet tooth. Eating raw can be so delightfully sweet, and the combinations are endless! If you don't have pineapple, it will taste just as good without it, and if you're not a fan of celery, this smoothie is a great way to incorporate more of it into your lifestyle. ",
+       "Method":[
+                {
+                 "steps":"Chop up the celery, and remember to pit your dates. Place all of the ingredients into your blender, blend, pour, and drink up!"
+                }
+
+              ],
+      "Ingredients":[
+                {
+                 "steps":"5 bananas "
+                },
+                {
+                 "steps":" 4 dates"
+                },
+                {
+                 "steps":"3 celery stalks"
+                },
+                {
+                 "steps":"1/2 cup pineapple"
+                },
+                {
+                 "steps":"1 cup water"
+                }
+                ]
+     },
+      {
+       "id":"sm8",
+       "Name":"Chocolate Weight Loss",
+       "image":"ChocolateWeightLoss",
+        "YoutubeURL":"",
+       "description":"This energizing chocolate-flavored smoothie is rich with minerals and great for weight loss! It?s filled with superfoods, containing more than 12 essential nutrients or complete proteins. If you want something easy, healthy, nutritious, and delicious, this is the smoothie for you!",
+       "Method":[
+                {
+                 "steps":"Soak the sunflower seeds for around two hours. Pit the dates. Blend all the ingredients together and enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"4 tablespoons cocoa powder"
+                },
+                {
+                 "steps":"1 handful of dates"
+                },
+                {
+                 "steps":"2 bananas"
+                },
+                {
+                 "steps":"1/2 cup pineapple"
+                },
+                {
+                 "steps":"2 tablespoons chia seeds"
+                },
+                {
+                 "steps":"2 tablespoons maca"
+                },
+                {
+                 "steps":"4 tablespoons sunflower seeds"
+                },
+                {
+                 "steps":"1 pinch salt"
+                },
+                {
+                 "steps":"1 small handful of cacao nibs"
+                },
+                {
+                 "steps":" 3 cups water"
+                }
+                ]
+     },
+      {
+       "id":"sm9",
+       "Name":"ColonCleanse",
+       "image":"ChocolateMylkShake",
+        "YoutubeURL":"",
+       "description":"Papaya's enzyme, papain, promotes the digestion of proteins. Aloe vera has super anti-inflammatory properties. Pineapple is a natural diuretic, and celery s insoluble fiber helps promote digestion as well. Enjoy this in the morning after a large glass of water and relieve yourself after last night's heavy dinner!",
+       "Method":[
+                {
+                 "steps":"Blend all ingredients together until smooth, then pour and enjoy. Happy digestion! "
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"2 cups pineapple"
+                },
+                {
+                 "steps":"2 cups papaya"
+                },
+                {
+                 "steps":"1 cup water"
+                },
+                {
+                 "steps":"2 celery stalks"
+                },
+                {
+                 "steps":"1.5 inches aloe vera "
+                }
+                ]
+     },
+     {
+       "id":"sm10",
+       "Name":"Dinner Replacing Smoothie",
+       "image":"DinnerSmoothie",
+        "YoutubeURL":"",
+       "description":"If you?re not that hungry or you simply want a smoothie for dinner, this one is perfect! It tastes delicious and contains lots of fruits, veggies, and seeds that will help you obtain many vitamins and minerals essential for your wellbeing.",
+       "Method":[
+                {
+                 "steps":"Peel the oranges and cucumber, and discard the peels. Put all of the ingredients in a blender. Blend, serve, and enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":" 2 cups strawberries"
+                },
+                {
+                 "steps":"2 oranges"
+                },
+                {
+                 "steps":"1/2 cup raspberries"
+                },
+                {
+                 "steps":"2 tablespoons chia seeds"
+                },
+                {
+                 "steps":"2 cups spinach"
+                },
+                {
+                 "steps":" 4 romaine lettuce leaves"
+                },
+                {
+                 "steps":"1 cucumber"
+                }
+
+                ]
+
+     },
+     {
+       "id":"sm11",
+       "Name":"Energy Drink",
+       "image":"EnergyDrink",
+        "YoutubeURL":"",
+       "description":"Forget about energy drinks like Redbull or Monster! This drink will give you tons of energy, and its so, so, SO easy to make. Besides being healthful, it tastes amazing! A lot of people who try this recipe tell me that it gives them a surge of energy like no other. People who don?t work out suddenly feel like working out, and some people even drink it instead of their usual coffee. So if you have low energy, try this smoothie! It wont disappoint.",
+       "Method":[
+                {
+                 "steps":"Pit the dates, Blend all the ingredients together and enjoy!"
+                }
+
+              ],
+      "Ingredients":[
+                {
+                 "steps":" 2 cups coconut water"
+                },
+                {
+                 "steps":"3 Cupice"
+                },
+                {
+                 "steps":"6 dates"
+                }
+                ]
+     },
+     {
+       "id":"sm12",
+       "Name":"Fall Smoothie",
+       "image":"FallSmoothie",
+        "YoutubeURL":"",
+       "description":" Nature knows best and gives us the flavors we crave during the different seasons of the year! Adding cinnamon is a great way to prevent colds and release mucus.",
+       "Method":[
+                {
+                 "steps":"Open the top of your coconut and pour the water into the blender along with all of the other ingredients. Blend and enjoy!."
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"3 pears"
+                },
+                {
+                 "steps":"3 apples"
+                },
+                {
+                 "steps":"3 persimmons"
+                },
+                {
+                 "steps":"4 dates"
+                },
+                {
+                 "steps":"1 romaine lettuce heart"
+                },
+                {
+                 "steps":"1 teaspoon cinnamon powder"
+                },
+                {
+                 "steps":"1 young coconut"
+                }
+                ]
+     },
+     {
+       "id":"sm13",
+       "Name":"Guava Pink Smoothie",
+       "image":"GuavaSmoothie",
+        "YoutubeURL":"",
+       "description":"This smoothie is very high in vitamin C, and it tastes delightfully, relaxingly tropical. Enjoy the many flavors in every sip",
+       "Method":[
+                {
+                 "steps":"Place the guava pulp into blender with the rest of the ingredients, blend, and enjoy! "
+                },
+                {
+                 "steps":"Blend the guavas, then pass the blended guavas through a strainer to remove all seeds. Discard the seeds."
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"6 guavas"
+                },
+                {
+                 "steps":" 2 cups strawberries"
+                },
+                {
+                 "steps":"2 cups orange juice"
+                }
+                ]
+     },
+     {
+       "id":"sm14",
+       "Name":"Kids Smoothie",
+       "image":"SmoothieForKids",
+        "YoutubeURL":"",
+       "description":" This smoothie is perfect for kids and adults alike! It tastes so good that the young ones will keep begging you for more! The banana, mango and coconut give it sweetness while the spinach and romaine lettuce ensure that your kids are consuming the necessary nutrients for their development.",
+       "Method":[
+                {
+                 "steps":"Put all of the ingredients in a blender, blend, serve and enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"2 bananas "
+                },
+                {
+                 "steps":"1 mango"
+                },
+                {
+                 "steps":"1/2 cup coconut meat"
+                },
+                {
+                 "steps":" 1 cup spinach"
+                },
+                {
+                 "steps":"2 romaine lettuce leaves"
+                },
+                {
+                 "steps":"1 1/2 cups coconut water"
+                }
+                ]
+     },
+     {
+       "id":"sm15",
+       "Name":"Kiwi Melon",
+       "image":"KiwiMelon",
+        "YoutubeURL":"",
+       "description":"Deliciously sweet, this beautifully colored smoothie is great for breakfast. Melons are best eaten alone or combined with acid fruit.",
+       "Method":[
+                {
+                 "steps":"Remove and discard the cantaloupes peel and seeds. Cut the kiwis in half, leaving the skin on because it contains many nutrients and will not affect the taste. Blend and enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1 cantaloupe"
+                },
+                {
+                 "steps":"14 kiwis"
+                }
+                ]
+     },
+     {
+       "id":"sm16",
+       "Name":"Mango Berry",
+       "image":"MangoBerry",
+        "YoutubeURL":"",
+       "description":"When they?re in season, I absolutely love eating sweet and ripe mangoes. Did you know there are over 500 varieties of mangoes The frozen blueberries in this recipe create a refreshingly cold drink!",
+       "Method":[
+                {
+                 "steps":"Put all the ingredients in the blender, blend, and enjoy! Remember to keep the stems on the strawberries, because they are filled with nutrients."
+                }
+
+              ],
+      "Ingredients":[
+                {
+                 "steps":"3 mangoes "
+                },
+                {
+                 "steps":"1 cup water"
+                },
+                {
+                 "steps":"2 cups strawberries"
+                },
+                {
+                 "steps":"1 cup frozen blueberries"
+                }
+                ]
+     },
+      {
+       "id":"sm17",
+       "Name":"Pineapple Cantaloupe",
+       "image":"WeightLossSmoothie",
+        "YoutubeURL":"",
+       "description":"I love to drink this when Iam out in the sun, because its hydrating and refreshing!",
+       "Method":[
+                {
+                 "steps":"Remove and discard the cantaloupes peel and seeds. Place all of the ingredients in your blender, blend, and enjoy! So YUM!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":" 1 cantaloupe"
+                },
+                {
+                 "steps":"2 cups pineapple"
+                },
+                {
+                 "steps":"1 cup orange juice"
+                }
+                ]
+     },
+      {
+       "id":"sm18",
+       "Name":"Post Workout Smoothie",
+       "image":"PostWorkout",
+        "YoutubeURL":"",
+       "description":"Bananas are the perfect fuel before or after a workout because they give you the energy you need. Kale is one of my favorite greens because it is packed with minerals which help you think more clearly and be more alert. Watch my YouTube video for a further explanation of why this is a great post-workout smoothie.",
+       "Method":[
+                {
+                 "steps":"Remove the stem from the kale leaf. Place all of the ingredients in a blender and blend well, adding ice if desired. "
+                }
+
+              ],
+      "Ingredients":[
+                {
+                 "steps":"4 bananas"
+                },
+                {
+                 "steps":"2 cups strawberries"
+                },
+                {
+                 "steps":"1 cup blueberries"
+                },
+                {
+                 "steps":"1 kale leaf"
+                },
+                {
+                 "steps":"1 tablespoon hemp seeds"
+                },
+                {
+                 "steps":"1 cup water"
+                }
+                ]
+     },
+     {
+       "id":"sm19",
+       "Name":"Pumpkin Smoothie",
+       "image":"PumpkinSmoothie",
+        "YoutubeURL":"",
+       "description":"This is the perfect smoothie to make on a cloudy, chilly day after a good workout. Grab your warm blanket and sit by the fire or watch a movie while enjoying your delicious smoothie!",
+       "Method":[
+                {
+                 "steps":"Chop all of the ingredients except the lime into small pieces, including nopales and serrano pepper to taste, and mix togetherRemove the skin and seeds from the pumpkin, keeping only the flesh. Open your coconut carefully and pour the coconut water into the blender. Add the pumpkin flesh along with the rest of your ingredients (except the blanket!) and blend well. Sit back, snuggle under your warm blanket, and enjoy!"
+                }
+
+              ],
+      "Ingredients":[
+                {
+                 "steps":" 1 medium sugar pumpkin"
+                },
+                {
+                 "steps":"2 bananas "
+                },
+                {
+                 "steps":"4 persimmons"
+                },
+                {
+                 "steps":"2 dates"
+                },
+                {
+                 "steps":"1 young coconut"
+                },
+                {
+                 "steps":"1 teaspoon pumpkin spice"
+                },
+                {
+                 "steps":" warm blanket :)"
+                }
+                ]
+     },
+     {
+       "id":"sm20",
+       "Name":"Stomach Cleanse Smoothie",
+       "image":"StomachCleanseSmoothie",
+        "YoutubeURL":"",
+       "description":" The aloe vera in this smoothie is a natural diuretic that will help you cleanse your stomach and lose weight. I recommend you drink this as soon as you wake up for the best results.",
+       "Method":[
+                {
+                 "steps":"Juice the lemons. Blend the lemon juice with all the other ingredients, serve, and enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"2 cups pineapple"
+                },
+                {
+                 "steps":"2 lemons"
+                },
+                {
+                 "steps":"1 small piece of ginger"
+                },
+                {
+                 "steps":"1 small piece of aloe vera"
+                },
+                {
+                 "steps":"2 cups water"
+                }
+                ]
+     },
+           {
+             "id":"sm21",
+             "Name":"Sweet Kale",
+             "image":"SmoothieBowl",
+              "YoutubeURL":"",
+             "description":"Sweet fruits are best eaten for lunch when your body is asking for more calories. This smoothie will give you the energy you need to finish the rest of your day. Besides, it's so good!",
+             "Method":[
+                      {
+                       "steps":"Place all of the ingredients into a blender. Blend, pour, and enjoy!. "
+                      }
+                    ],
+            "Ingredients":[
+                      {
+                       "steps":" 5 bananas"
+                      },
+                      {
+                       "steps":" 1 cup grapes"
+                      },
+                      {
+                       "steps":"2 kale leaves"
+                      },
+                      {
+                       "steps":"1 cup water"
+                      }
+                      ]
+           },
+           {
+             "id":"sm22",
+             "Name":"Tangy Watermelon",
+             "image":"TangyBerry",
+              "YoutubeURL":"",
+             "description":" Enjoy this perfect summertime smoothie by the pool on a hot day! It?s so refreshing and sweet, while being low in calories and high in vitamins. This will make you feel amazing!",
+             "Method":[
+                      {
+                       "steps":"Place all of the ingredients in a blender and blend, adding water if necessary to get the consistency you prefer."
+                      }
+                    ],
+            "Ingredients":[
+                      {
+                       "steps":"2 cups watermelon "
+                      },
+                      {
+                       "steps":"2 1/2 cups strawberries"
+                      },
+                      {
+                       "steps":"2 cups strawberries"
+                      },
+                      {
+                       "steps":"1/2 cup mulberries"
+                      },
+                      {
+                       "steps":"1 small handful of mint leaves"
+                      }
+                      ]
+           },
+           {
+             "id":"sm23",
+             "Name":"Tropical Papaya",
+             "image":"TropicalSmoothie",
+              "YoutubeURL":"",
+             "description":"One of my favorite combinations of ALL TIME! This smoothie is pure tropical goodness in a glass. Taste the flavors of the Caribbean and indulge your cells in vitality! Both fruits are anti-inflammatory and will help maintain a clean colon.",
+             "Method":[
+                      {
+                       "steps":"Ensure no peel remains on either fruit, then place in blender and enjoy! Add water if desired to achieve your preferred consistency."
+                      }
+                    ],
+            "Ingredients":[
+                      {
+                       "steps":"1 cup papaya"
+                      },
+                      {
+                       "steps":"2 1/2 cups pineapple"
+                      }
+                      ]
+           },
+                       {
+                         "id":"sm24",
+                         "Name":"Tropical Smoothie",
+                         "image":"TropicalSmoothie",
+                          "YoutubeURL":"",
+                         "description":"This smoothie tastes amazing! It?s like an explosion of sweet fruits in your mouth. Its perfect for those times when we feel anxious around food or get an intense snack attack. Even if this isn?t the case, I still recommend you drink this smoothie, just because it tastes that good!",
+                         "Method":[
+                                  {
+                                   "steps":"Put all of the ingredients in a blender, blend, serve, and enjoy!"
+                                  }
+
+                                ],
+                        "Ingredients":[
+                                  {
+                                   "steps":" 2 cups pineapple "
+                                  },
+                                  {
+                                   "steps":"1 1/2 cup jackfruit"
+                                  },
+                                  {
+                                   "steps":"2 cups coconut water"
+                                  },
+                                  {
+                                   "steps":"ice (optional)"
+                                  }
+                                  ]
+                       },
+                        {
+                         "id":"sm25",
+                         "Name":"Watermelon BerrySlushy",
+                         "image":"WatermelonSlushy",
+                          "YoutubeURL":"",
+                         "description":"This is a perfect summertime recipe that takes advantage of melons being in season! Enjoy this refreshing smoothie under the summer sun! Watermelon is 98 water, so it will keep you hydrated and feeling energized.",
+                         "Method":[
+                                  {
+                                   "steps":"Blend watermelon, frozen strawberries and the innards of one passion fruit (discard the peel)."
+                                  },
+                                  {
+                                   "steps":"2 celery stalksTop off the smoothie with the flesh of the second passion fruit and sprinkle with some blueberries!"
+                                  }
+                                ],
+                        "Ingredients":[
+                                  {
+                                   "steps":"4 cups watermelon"
+                                  },
+                                  {
+                                   "steps":"2 cups frozen strawberries"
+                                  },
+                                  {
+                                   "steps":"blueberries"
+                                  },
+                                  {
+                                   "steps":"2 passion fruit (optional)"
+                                  }
+                                  ]
+                       },
+                                                {
+                                                 "id":"sm26",
+                                                 "Name":"Weight Loss Smoothie",
+                                                 "image":"WeightLossSmoothie",
+                                                 "description":"This smoothie is perfect to keep your colon clean. It will help with relieving indigestion and releasing toxins from your body. So prepare this smoothie and enjoy all the benefits!",
+                                                 "Method":[
+                                                          {
+                                                           "steps":"Peel the cucumber, and remove the stem from the kale leaf. Put all of the ingredients in a blender. Blend, serve, and enjoy!"
+                                                          }
+                                                        ],
+                                                "Ingredients":[
+                                                          {
+                                                           "steps":"1 cucumber"
+                                                          },
+                                                          {
+                                                           "steps":"2 celery stalks"
+                                                          },
+                                                          {
+                                                           "steps":"4 romaine lettuce leaves"
+                                                          },
+                                                          {
+                                                           "steps":"1 kale leaf"
+                                                          },
+                                                          {
+                                                           "steps":"2 cups spinach"
+                                                          },
+                                                          {
+                                                           "steps":"1 cup pineapple"
+                                                          },
+                                                          {
+                                                           "steps":"2 cups water"
+                                                          }
+                                                          ]
+                                               }
+
+           ]
+}

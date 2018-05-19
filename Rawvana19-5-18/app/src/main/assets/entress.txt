@@ -1,0 +1,1270 @@
+{
+ "Mid":"3",
+ "Type":"Entrees",
+"array":[
+     { 
+       "id":"e1",
+       "Name":"Apple Sandwitches",
+       "image":"AppleSandwiches",
+        "YoutubeURL":"",
+       "description":"This is a really fun way to eat apples, which go especially well with any type of seed or nut butter. This recipe is perfect as a snack for kids or adults alike, or can even make a great breakfast or post-workout meal. It's fun to make and you can eat as many sandwiches as you want!",
+       "Method":[
+                {
+                 "steps":"Core and slice your favorite apples (mine are Fuji). On one slice, put the almond butter, dehydrated coconut and raisins. Then use another slice to top your 'sandwich.' Yum!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":" 5 apples " 
+                },
+                {
+                 "steps":"1 cup almond milk"
+                },
+                {
+                 "steps":"1/2 cup dehydrated coconut"
+                },
+                {
+                 "steps":"1/2 cup raisins"
+                }
+                ]
+   
+     },
+     { 
+       "id":"e2",
+       "Name":"Cabbage Tacos",
+       "image":"CabbageTacos",
+        "YoutubeURL":"",
+       "description":"I love sharing this dish! It's always a hit. Who doesn't love eating tacos? They're even better when you can eat as many as you want without feeling bad about yourself. Make this recipe and eat as many tacos as you want! But don't forget to share!",
+       "Method":[
+                {
+                 "steps":"Using a fork, mash your avocados together with the orange juice until it obtains a chunky consistency." 
+                },
+                {
+                 "steps":"Shred the jicama. Julienne the bell pepper. Finely slice the green onions and cilantro. Cut the pineapple into strips. Remove one leaf from the cabbage for each taco you want to make."
+                },
+                {
+                 "steps":"Arrange all of the filling ingredients inside of your red cabbage leaves, finishing off each taco with some of the guacamole!."
+                }
+
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1 red cabbage" 
+                },
+                {
+                 "steps":"1 jicama "
+                },
+                {
+                 "steps":"1 red bell pepper"
+                },
+                {
+                 "steps":"almonds (optional)"
+                },
+                {
+                 "steps":"1/2 pineapple "
+                },
+                {
+                 "steps":"1 small bunch of cilantro"
+                },
+                {
+                 "steps":"2 green onions"
+                },
+                {
+                 "steps":"2 avocados"
+                },
+                {
+                 "steps":"1/4 cup orange juice"
+                }
+                ]
+     },
+     { 
+       "id":"e3",
+       "Name":"Cauliflower Tacos",
+       "image":"CauliflowerTacos",
+        "YoutubeURL":"",
+       "description":"Cauliflower is rich in nutrients and minerals, contains antioxidants, is anti-inflammatory, helps digestion, and offers many other benefits! This delicious cauliflower taco recipe is perfect for lunch or dinner!!",
+       "Method":[
+                {
+                 "steps":"Cut cauliflower in half to remove its heart. Cut the remaining cauliflower into small pieces." 
+                },
+                {
+                 "steps":"Finely chop the onion and mince the garlic. Saut' the onion and garlic in the coconut oil until they begin to brown, then add the cauliflower. Stir it as you add, one at a time, the coriander, cumin, and salt to taste. By this time the cauliflower should be softening; remove it from the heat."
+                },
+                {
+                 "steps":"Chop the cilantro and mince the Serrano. Juice one lime onto the avocado, then mash in the cilantro and Serrano pepper with a fork" 
+                },
+                {
+                 "steps":"Shred the red cabbage finely. Mix with the juice of four limes, and add salt to taste." 
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1 cauliflower " 
+                },
+                {
+                 "steps":"1/2 teaspoon coconut oil"
+                },
+                {
+                 "steps":"1/2 white onion"
+                },
+                {
+                 "steps":"1 1/4 teaspoon coriander"
+                },
+                {
+                 "steps":"1/2 white onion"
+                },
+                {
+                 "steps":"1/4 teaspoon cumin"
+                },
+                {
+                 "steps":"salt"
+                },
+                {
+                 "steps":"3/4 teaspoon coconut oil"
+                },
+                {
+                 "steps":"1 avocado"
+                },
+                {
+                 "steps":"1 lime"
+                },
+                {
+                 "steps":"1 small bunch of cilantro"
+                },
+                {
+                 "steps":"1 serrano pepper (optional)"
+                },
+                {
+                 "steps":"1 head of romaine lettuce"
+                }
+                ]
+     },
+     {
+       "id":"e4",
+       "Name":"Cauliflower White Rice",
+       "image":"CauliflowerRice",
+        "YoutubeURL":"https://www.youtube.com/watch?v=_IobTSTNo64&t=0s&list=PLsbvKobPMbGpqOrR3Og9IJn3RC5j9ChgY&index=6",
+       "description":"This cauliflower rice is a great addition to any salad or salsa. Feel free to add anything else you like to this dish, I personally recommend a few ripe tomatoes. Que Rico! ",
+       "Method":[
+                {
+                 "steps":"Rinse the cauliflower, then cut into medium-sized pieces, avoiding and discarding the core. Place the cauliflower pieces in a food processor with an S blade. Turn on high until cauliflower reaches a rice-looking texture. If you don't own a food processor, you can use a grater instead."
+                },
+                {
+                 "steps":"Chop the parsley, cilantro, and red onion very finely. Squeeze the juice of the lime on top, and mix well with the cauliflower rice."
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1 cauliflowers"
+                },
+                {
+                 "steps":"1/2 red onion"
+                },
+                {
+                 "steps":"1 small bunch of cilantro"
+                },
+                {
+                 "steps":"1 small bunch of parsley"
+                },
+                {
+                 "steps":"1 lime"
+                }
+                ]
+     },
+     {
+       "id":"e5",
+       "Name":"Chile Rellenos",
+       "image":"ChilleRelleno",
+        "YoutubeURL":"",
+       "description":"This was one of my favorite Mexican dishes, and this raw version is even better! Enjoy the flavors of Mexico in every bite!",
+       "Method":[
+                {
+                 "steps":"Soak the poblano peppers in water for about an hour so they soften up. Slice vertically down the center of each pepper and remove all of the seeds.  "
+                },
+                {
+                 "steps":"Peel the jicama and carrots. Place them in the food processor along with the zucchini, kale, and one green onion. Process on high with an S blade. Stuff the resulting mixture into each of your peppers."
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"4 poblano peppers"
+                },
+                {
+                 "steps":"1/2 jicama"
+                },
+                {
+                 "steps":"3 carrots"
+                },
+                {
+                 "steps":"1 zucchini"
+                },
+                {
+                 "steps":"1/2 bunch of kale"
+                },
+                {
+                 "steps":"2 green onions"
+                },
+                {
+                 "steps":"4 tomatoes"
+                },
+                {
+                 "steps":"2 dried bay leaves"
+                }
+                ]
+     },
+     {
+       "id":"e6",
+       "Name":"Creamy Corn Pasta",
+       "image":"CornPasta",
+        "YoutubeURL":"",
+       "description":"I absolutely LOVE corn! It's one of my favorite vegetables and I could eat it all day! This is a great recipe because it's sweet and spicy at the same time. If you don't like spice, simply omit the Serrano pepper. I'm sure you will enjoy this recipe as much as I do.",
+       "Method":[
+                {
+                 "steps":"Spiralize the zucchini into thin noodles"
+                },
+                {
+                 "steps":"Juice the lime. Slice the corn off the cobs. Blend or process the resulting corn kernels with the parsley, cilantro, green onion, lime juice, and serrano. Pour on top of pasta, mix well, and enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"6 zucchini"
+                },
+                {
+                 "steps":"1/2 10 ears of corn"
+                },
+                {
+                 "steps":"2 green onions"
+                },
+                {
+                 "steps":"1 small bunch of cilantro"
+                },
+                {
+                 "steps":"1 small bunch of parsley"
+                },
+                {
+                 "steps":"serrano pepper (optional)"
+                }
+                ]
+     },
+     {
+       "id":"e7",
+       "Name":"Ginger Carrot Noodles",
+       "image":"CarrotNoodles",
+        "YoutubeURL":"",
+       "description":"Tangy and a bit spicy, these noodles are fresh and easy to make. They make a great dinner dish and go perfectly over a bed of greens or inside romaine leaves. The day I made this recipe, my neighbor came over for dinner and absolutely loved it. I'm sure you will too!",
+       "Method":[
+                {
+                 "steps":"Peel and juice the oranges, then grate a small piece of ginger. Blend the ginger pieces with the orange juice."
+                },
+                {
+                 "steps":"Spiralize the carrots. Toss with the orange/ginger juice, then refrigerate for 15-20 minutes to allow them to marinate."
+                },
+                {
+                 "steps":"While the noodles are marinating, chop the rest of the ingredients. Once the noodles are ready, mix everything together in a large bowl. DIG IN!"
+                }
+
+              ],
+      "Ingredients":[
+                {
+                 "steps":"5 large carrots "
+                },
+                {
+                 "steps":"3 oranges"
+                },
+                {
+                 "steps":"2 green onions"
+                },
+                {
+                 "steps":"1/4 purple cabbage"
+                },
+                {
+                 "steps":"1 pint of cherry tomatoes"
+                },
+                {
+                 "steps":"1/4 avocados"
+                },
+                {
+                 "steps":"1 small piece of ginger"
+                },
+                {
+                 "steps":"1 small bunch of cilantro"
+                }
+                ]
+     },
+      {
+       "id":"e8",
+       "Name":"Jicama Rice",
+       "image":"JicamaRice",
+        "YoutubeURL":"",
+       "description":"Jicama is very popular in Mexico, and is usually eaten with lime and salt. This salt-free Mexican jicama rice is a scrumptious addition to any salad. It adds texture, spice, and freshness to any summer dinner. Eating raw is about making new creations with what the earth gave us.",
+       "Method":[
+                {
+                 "steps":"Peel the jicama, cut it in half, and grate it jicama to create a rice-like texture. You can grate it in a food processor if you prefer."
+                },
+                {
+                 "steps":"Juice the lime. Chop the remaining ingredients very finely and mix well with the lime juice. Mix in the grated jicama and let the ingredients marinate for about 10 minutes. Bless your food and enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1 large jicamas"
+                },
+                {
+                 "steps":"4 tomatoes"
+                },
+                {
+                 "steps":"1 yellow bell pepper"
+                },
+                {
+                 "steps":"1 green onion"
+                },
+                {
+                 "steps":"1 small bunch of cilantro"
+                },
+                {
+                 "steps":"1 small bunch of parsley"
+                },
+                {
+                 "steps":"1 lime"
+                }
+                ]
+     },
+      {
+       "id":"e9",
+       "Name":"Mango Tostadas",
+       "image":"MangoTostadas",
+        "YoutubeURL":"",
+       "description":"Fish tostadas used to be one of my favorite dishes, but this raw vegan version is so much better! Fish can be very acidic to the body, but replacing it with mango, makes this dish alkalizing and sweet. Make sure your mangoes are soft and ripe to receive the full nourishment of this beautiful dish.",
+       "Method":[
+                {
+                 "steps":"Peel the skin off the jicama and cut it into slices to make round tostada like shapes. Cut them thick so the juice from the filling doesn't break the tostada.."
+                },
+                {
+                 "steps":"Peel mango and cut into small pieces. Chop the tomatoes, green onion, cilantro, and serrano pepper into small pieces as well. Mix together and add the juice from the lime. The flavors from the ingredients will begin to mix, creating an incredible fusion. Spread the filling over the tostadas and top with avocado."
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"5 mangoes"
+                },
+                {
+                 "steps":"4 tomatoes"
+                },
+                {
+                 "steps":"1 green onion"
+                },
+                {
+                 "steps":"1 large jicama"
+                },
+                {
+                 "steps":"1 avocado"
+                },
+                {
+                 "steps":"1 small bunch of cilantro"
+                },
+                {
+                 "steps":"1 lime"
+                },
+                {
+                 "steps":"serrano pepper (optional) "
+                }
+                ]
+     },
+     {
+       "id":"e10",
+       "Name":"Mexican Burrito",
+       "image":"MexicanBurrito",
+        "YoutubeURL":"",
+       "description":"This burrito is much better than a meat and cheese burrito. You can make it much bigger, eat all you want, and feel amazing afterwards! Play with the textures of the fillings. I sometimes spiralize zucchini and stuff it in there, and it tastes amazing! Que rico!",
+       "Method":[
+                {
+                 "steps":"Cut the stem off your collard leaves, then flip the leaves right-side-up."
+                },
+                {
+                 "steps":"Chop kale into small thin strips. Dice mushrooms, bell pepper, zucchini, carrot, and tomatoes. Grate the cauliflower. Mince green onion and cilantro. Mix all of these ingredients together. Squeeze orange, lemon and lime juices on top. Massage together. This will be the filling for your burritos."
+                },
+                {
+                 "steps":"Fill the collard leaves with the marinated filling. Add Colorado sauce and avocado if desired, then roll into a burrito or a wrap. Get messy and enjoy your food!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":" collard greens"
+                },
+                {
+                 "steps":"1 bunch of kale"
+                },
+                {
+                 "steps":"1 orange"
+                },
+                {
+                 "steps":"1/2 cup of mushrooms"
+                },
+                {
+                 "steps":"1/2 cup of mushrooms"
+                },
+                {
+                 "steps":"1 zucchini"
+                },
+                {
+                 "steps":"3 tomatoes"
+                },
+                {
+                 "steps":"1/4 cup cauliflower"
+                },
+                {
+                 "steps":"1 carrot"
+                },
+                {
+                 "steps":"1 lemon"
+                },
+                {
+                 "steps":"1 lime"
+                },
+                {
+                 "steps":"1 small bunch of cilantro"
+                },
+                {
+                 "steps":"Colorado Sauce (recipe in Sauces/Dips)"
+                },
+                {
+                 "steps":"avocado (optional)"
+                }
+                ]
+
+     },
+     {
+       "id":"e11",
+       "Name":"Mexican Cauliflower Rice",
+       "image":"MexicanCauliflowerRice",
+        "YoutubeURL":"",
+       "description":"I love this recipe! It's one of my favorites. If you love rice, make this recipe! You will never want to eat normal rice again. The dressing gives it such a great flavor, and the more it soaks in the lemon juice the better it tastes. Make this recipe for a family reunion and watch it be devoured in no time!",
+       "Method":[
+                {
+                 "steps":"Juice the lime. Cut up the cauliflower, removing and discarding the center stalk. Place the cauliflower in a food processor or blender along with the cilantro, green onion, serrano pepper to taste, tahini, and lime juice. Process until it achieves a rice-like consistency.."
+                },
+                {
+                 "steps":"Dice the bell peppers and slice the avocado. Mix the bell peppers into the cauliflower rice in your favorite bowl, and top with avocado."
+                }
+
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1 cauliflower"
+                },
+                {
+                 "steps":"1 small bunch of cilantro "
+                },
+                {
+                 "steps":"1 green onion"
+                },
+                {
+                 "steps":"serrano pepper (optional)"
+                },
+                {
+                 "steps":"1 red bell pepper"
+                },
+                {
+                 "steps":"1 yellow bell pepper "
+                },
+                {
+                 "steps":"1 avocado"
+                },
+                {
+                 "steps":"2 tablespoons tahini "
+                },
+                {
+                 "steps":"1 lime"
+                }
+                ]
+     },
+     {
+       "id":"e13",
+       "Name":"Mushroom Ceviche",
+       "image":"MushroomCeviche2",
+        "YoutubeURL":"",
+       "description":"Another one of my favorites, this recipe is so easy to make and you'll be satisfied and happy! Prepare this recipe with a family member or a friend, because it's fun to make and tastes amazing. Enjoy!",
+       "Method":[
+                {
+                 "steps":"Juice the lemons. Cut all of the ingredients into small pieces, using quantities that match your personal taste, and mix them together with the lemon juice in a big bowl. Enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"16 ounces mushrooms"
+                },
+                {
+                 "steps":"3 tomatoes"
+                },
+                {
+                 "steps":"purple onion"
+                },
+                {
+                 "steps":"3 lemons"
+                },
+                {
+                 "steps":"cilantro"
+                },
+                {
+                 "steps":"serrano pepper"
+                },
+                {
+                 "steps":"avocado"
+                },
+                {
+                 "steps":"oregano"
+                }
+                ]
+     },
+     {
+       "id":"e14",
+       "Name":"Noodles WithPesto",
+       "image":"Noodles_Pesto",
+        "YoutubeURL":"",
+       "description":"Zucchini pesto pasta! If you are a pasta lover, you will LOVE this recipe! I recommend grabbing a spiralizer or a potato peeler to make the zucchini noodles.",
+       "Method":[
+                {
+                 "steps":"Shred zucchini or use a spiralizer to create zucchini noodles."
+                },
+                {
+                 "steps":"Juice the lime. Blend its juice with all the other ingredients for the pesto. If they stick, add water as needed"
+                },
+                {
+                 "steps":"SPour the pesto on top of noodles and mix together. Add tomatoes, pine nuts, and basil on top of the pasta for decoration"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"3 zucchini"
+                },
+                {
+                 "steps":"1 avocado"
+                },
+                {
+                 "steps":"1/4 cup pine nuts"
+                },
+                {
+                 "steps":"1 lime"
+                },
+                {
+                 "steps":"1 pinch of basil"
+                },
+                {
+                 "steps":"1 pinch of salt "
+                },
+                {
+                 "steps":"1 pinch of pepper"
+                },
+                {
+                 "steps":"1/2 garlic clove"
+                }
+                ]
+     },
+     {
+       "id":"e15",
+       "Name":"NotMeat Balls",
+       "image":"NotMeatballs",
+        "YoutubeURL":"",
+       "description":"Delicious NOT meatballs! You can eat these as a snack, over zucchini pasta, or with a dressing. Hope you like them as much as I do. YUM!",
+       "Method":[
+                {
+                 "steps":"Chop up all ingredients. Place them in food processor and turn on high to mix thoroughly.
+Note: A little goes a long way with herbs. Make sure you sample the mixture as you process, and add herbs as desired.
+"
+                },
+                {
+                 "steps":"The consistency will be wet due to the water in the veggies. To make the balls, simply take some of the food from the processor, squeeze out the juice, and form into balls.
+Tip: Save the juice, you can drink it or use in a dressing.
+"
+                }
+,
+                {
+                 "steps":"Place meatballs in a dehydrator at 118-125 degrees F. They should be ready in 2-3 hours"
+                }
+
+              ],
+      "Ingredients":[
+                {
+                 "steps":"3 carrots"
+                },
+                {
+                 "steps":"1 red bell pepper"
+                },
+                {
+                 "steps":"2 zucchini"
+                },
+                {
+                 "steps":"2 strips of green onion"
+                },
+                {
+                 "steps":"2 mushrooms"
+                },
+                {
+                 "steps":"1 small bunch of basil"
+                },
+                {
+                 "steps":"1 small bunch of oregano"
+                }
+                ]
+     },
+     {
+       "id":"e16",
+       "Name":"Pad Thai",
+       "image":"PadThai",
+        "YoutubeURL":"https://www.youtube.com/watch?v=kPZ_Taw8l1I&index=24&list=PLsbvKobPMbGpqOrR3Og9IJn3RC5j9ChgY&t=0s",
+       "description":"This exquisite pad thai recipe that will make you want more! I was in the mood for Asian flavors one day and came up with these scrumptious noodles. Taste the flavors of Thailand!",
+       "Method":[
+                {
+                 "steps":"This exquisite pad thai recipe that will make you want more! I was in the mood for Asian flavors one day and came up with these scrumptious noodles. Taste the flavors of Thailand!"
+                },
+                {
+                 "steps":"Blend mango, zucchini,  tomato, one green onion, ginger, and juice of the lime. After blending, mix the sauce with the noodles"
+                },
+                {
+                 "steps":"Chop the broccoli, red bell pepper, red cabbage, the other half of the tomato, the other green onion, and the cilantro. Mix the veggies into the sauced noodles, and enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1 large daikon radish"
+                },
+                {
+                 "steps":"1/2 head of broccoli "
+                },
+                {
+                 "steps":"1 red bell pepper"
+                },
+                {
+                 "steps":"2 green onions"
+                },
+                {
+                 "steps":"1 mango"
+                },
+                {
+                 "steps":"1 zucchini"
+                },
+                {
+                 "steps":"1 tomato"
+                },
+                {
+                 "steps":"1 small piece of ginger"
+                },
+                {
+                 "steps":"1 small bunch of cilantro"
+                },
+                {
+                 "steps":"1/2 red cabbage"
+                },
+                {
+                 "steps":"1/2 lime"
+                }
+                ]
+     },
+     {
+       "id":"e17",
+       "Name":"Pasta Bolognese",
+       "image":"PastaBolognese",
+        "YoutubeURL":"",
+       "description":"This recipe tastes so good! I always recommend this to people who are craving pasta. It tastes delicious and you will be full and satisfied.",
+       "Method":[
+                {
+                 "steps":"Peel the cucumber and zucchini and discard the peels. Next, use the peeler or a spiralizer to make cucumber and zucchini spaghetti. "
+                },
+                {
+                 "steps":"Put all the ingredients for the sauce in a blender and blend until smooth. Use a strainer to strain the sauce and make it thicker and tastier. Put the sauce on your pasta and enjoy!"
+                }
+
+              ],
+      "Ingredients":[
+                {
+                 "steps":"2 cucumbers "
+                },
+                {
+                 "steps":"3 cups tomatoes"
+                },
+                {
+                 "steps":"2 zucchini"
+                },
+                {
+                 "steps":"4 dates"
+                },
+                {
+                 "steps":"1/2 cup dried tomatoes"
+                },
+                {
+                 "steps":"basil"
+                },
+                {
+                 "steps":"fresh oregano"
+                },
+                {
+                 "steps":"2 teaspoons hemp seeds"
+                }
+                ]
+     },
+      {
+       "id":"e18",
+       "Name":"Pomegranate Ceviches",
+       "image":"PastaBolognese",
+        "YoutubeURL":"",
+       "description":"Various members in my family are chefs. This recipe belongs to my aunt, who always makes it for the family when she comes to visit. The pomegranate seeds add a sweet taste to this ceviche. I personally recommend filling up butter lettuce leaves with the ceviche to get your greens in too!",
+       "Method":[
+                {
+                 "steps":"The secret to ceviche is chopping up all ingredients into small pieces and letting them sit for a few minutes before eating. For this recipe, deseed the pomegranate and cut up the mushrooms, green onions, tomatoes, and cilantro into small pieces. Pour lime juice on top. (Pomegranate deseeding techniques explained in Fall Salad recipe)."
+                },
+                {
+                 "steps":"Mix ingredients together in a large bowl and let them sit for 15 minutes. After the flavors have marinated together, enjoy this delicious ceviche!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"2 pints mushrooms"
+                },
+                {
+                 "steps":"2 green onions"
+                },
+                {
+                 "steps":"1 pomegranate"
+                },
+                {
+                 "steps":"4 tomatoes"
+                },
+                {
+                 "steps":"1 small bunch of cilantro"
+                },
+                {
+                 "steps":"2 limes"
+                }
+                ]
+     },
+      {
+       "id":"e19",
+       "Name":"Raw Tacos",
+       "image":"RawTacos",
+        "YoutubeURL":"https://www.youtube.com/watch?v=MZnHzoHggms&index=16&list=PLsbvKobPMbGpqOrR3Og9IJn3RC5j9ChgY&t=0s",
+       "description":"These tacos are so much better than any I have tried, and I'm from Mexico, so I would know! They taste delicious, fresh, and so so so so good. I just can't have enough! They're perfect to share with friends and family for lunch and dinner, and they're so easy to make! You guys will love this recipe!",
+       "Method":[
+                {
+                 "steps":"Remove the stems from the collard leaves. Use one leaf for each taco you want to make.."
+                },
+                {
+                 "steps":"Shred the carrots, jicamas, and beet. Slice the bell peppers and avocado. Halve the cherry tomatoes. Chop the celery, green onion, and cilantro. Fill the collard tacos with all of these prepared ingredients, and squeeze the lime on top."
+                },
+                {
+                 "steps":"Blend all of the tahini dressing ingredients, and drizzle the dressing over your tacos. Enjoy!."
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"green collard leaves"
+                },
+                {
+                 "steps":"2 carrots"
+                },
+                {
+                 "steps":"2 jicamas"
+                },
+                {
+                 "steps":"1 beet"
+                },
+                {
+                 "steps":"1 green bell pepper"
+                },
+                {
+                 "steps":"1 yellow bell pepper"
+                },
+                {
+                 "steps":"1 orange bell pepper"
+                },
+                {
+                 "steps":"1 cup cherry tomatoes "
+                },
+                {
+                 "steps":"1 celery stalk"
+                },
+                {
+                 "steps":"1 small bunch of cilantro"
+                },
+                {
+                 "steps":"1 green onion"
+                },
+                {
+                 "steps":"1 lime"
+                },
+                {
+                 "steps":"1 avocado "
+                }
+                ]
+     },{
+       "id":"e20",
+       "Name":"Raw Pizza",
+       "image":"RawPizza",
+        "YoutubeURL":"https://www.youtube.com/watch?v=kviL2EBxtmw&index=21&list=PLsbvKobPMbGpqOrR3Og9IJn3RC5j9ChgY&t=0s",
+       "description":"This pizza is amazing! The taste will leave you wanting more, and luckily you can eat as many pizzas as you want! It's healthy, it's easy to make, and most importantly, it's so so good for you! Pick your favorite toppings, like arugula, tomatoes, mushrooms, and bell peppers.",
+       "Method":[
+                {
+                 "steps":"In a food processor, process all of crust ingredients. Once processed, use a strainer to remove any excess liquid"
+                },
+                {
+                 "steps":"Form the crust into a circular shape on a dehydrator tray. Dehydrate on 125 degrees for 14 hours or overnight"
+                },
+                {
+                 "steps":"Blend all of the sauce ingredients until smooth. Spread the sauce on the dehydrated crust and grate the cauliflower onto it to make cheese. Top with your favorite ingredients, and enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":" 2 zucchini"
+                },
+                {
+                 "steps":"1 red bell pepper"
+                },
+                {
+                 "steps":"1/3 cup flax seeds"
+                },
+                {
+                 "steps":"3 tomatoes"
+                },
+                {
+                 "steps":"3 celery stalks"
+                },
+                {
+                 "steps":"1 cup dried tomatoes"
+                },
+                {
+                 "steps":"8 fresh basil leaves"
+                },
+                {
+                 "steps":"1 cauliflower"
+                }
+                ]
+
+     },
+     {
+       "id":"e21",
+       "Name":"Raw Vegan Burger",
+       "image":"Burger",
+        "YoutubeURL":"https://www.youtube.com/watch?v=qdaJelDQGms&index=19&list=PLsbvKobPMbGpqOrR3Og9IJn3RC5j9ChgY&t=0s",
+       "description":"This burger is crazy good! You won't miss drive-through burgers once you try this one. It's delicious, it's satisfying, and you can eat as many as you want. You can also customize it with ingredients such as jalape'os, spinach, etc. Experiment with it and make it your own. Enjoy!",
+       "Method":[
+                {
+                 "steps":"Peel the zucchini. Cut them and the bell pepper into blender-friendly chunks, then place them into the blender. Juice the lemon into the blender, then add the rest of the special sauce ingredients."
+                },
+                {
+                 "steps":"Trim the upper lip and gills off the mushrooms to make them thinner and easier to eat. Slice the tomato. Optionally, use a dehydrator to soften the portobello mushrooms, tomato, and pineapple."
+                },
+                {
+                 "steps":"Spread the sauce on the portobello bun and add the pineapple, tomatoes, and lettuce. I love these toppings, but you can add any other ingredients you desire!"
+                }
+
+              ],
+      "Ingredients":[
+                {
+                 "steps":"2 portobello mushrooms"
+                },
+                {
+                 "steps":"1 pineapple slice "
+                },
+                {
+                 "steps":"romaine lettuce"
+                },
+                {
+                 "steps":"1 tomato"
+                },
+                {
+                 "steps":"2 zucchini"
+                },
+                {
+                 "steps":"1 bell pepper (any color)"
+                },
+                {
+                 "steps":"1 pinch of cumin"
+                },
+                {
+                 "steps":"1 lemon"
+                },
+                {
+                 "steps":"1/2 avocado"
+                }
+                ]
+     },
+     {
+       "id":"e23",
+       "Name":"Stuffed Avocados",
+       "image":"StuffedAvocado",
+        "YoutubeURL":"",
+       "description":"This recipe is so easy to make. I love sharing it with my mom, so follow my tradition share this with a loved one. The flavors of all the ingredients and the avocado are incredible!",
+       "Method":[
+                {
+                 "steps":"Peel the cucumber. Finely chop all of the ingredients except the limes and avocados. Juice the limes."
+                },
+                {
+                 "steps":"Mix all the chopped ingredients together with the lime juice. Cut the avocados in half, remove the pits, and stuff with the mixture."
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"2 mangoes"
+                },
+                {
+                 "steps":"3 tomatoes"
+                },
+                {
+                 "steps":"1/2 cucumberr"
+                },
+                {
+                 "steps":"2 carrots"
+                },
+                {
+                 "steps":"1 small bunch of cilantro"
+                },
+                {
+                 "steps":"2 green onions"
+                },
+                {
+                 "steps":"2 limes "
+                },
+                {
+                 "steps":"2 avocados"
+                }
+                ]
+     },
+     {
+       "id":"e24",
+       "Name":"Stuffed Portobellos",
+       "image":"StuffedPortobellos",
+        "YoutubeURL":"",
+       "description":"If you're a mushroom lover, this one's for you! Mushrooms are high in vitamin D, and I personally love their taste and texture. This veggie dish will satisfy your savory tooth. Add more arugula to the pesto for an extra kick!.",
+       "Method":[
+                {
+                 "steps":"Chop celery, tomatoes, carrot, cilantro, green onion, and cauliflower. When finished, place all of these ingredients on portobello mushrooms (remember to remove the stem)."
+                },
+                {
+                 "steps":"Peel the zucchini. Blend peeled zucchinis, pine nuts, basil, and arugula (to taste)."
+                },
+                {
+                 "steps":"Serve portobellos over butter lettuce leaves and top with pesto sauce."
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"2 portobello mushrooms"
+                },
+                {
+                 "steps":"3 celery stalks"
+                },
+                {
+                 "steps":"3 tomatoes"
+                },
+                {
+                 "steps":"3 carrots"
+                },
+                {
+                 "steps":"1 green onion"
+                },
+                {
+                 "steps":"1 zucchini"
+                },
+                {
+                 "steps":"1/4 cup cauliflower"
+                },
+                {
+                 "steps":"1/4 cup pine nuts"
+                },
+                {
+                 "steps":"4 basil leaves"
+                },
+                {
+                 "steps":"1 head of butter lettuce"
+                },
+                {
+                 "steps":"1arugula"
+                },
+                {
+                 "steps":"1 small bunch of cilantro"
+                }
+                ]
+     },
+     {
+       "id":"e25",
+       "Name":"Stuffed SweetPotatoes",
+       "image":"StuffedSweetPotatoes",
+        "YoutubeURL":"",
+       "description":"Sweet potatoes provide us with multiple health benefits. They're great for our skin, our hair, and our bones, and their high fiber content makes them great for weight loss. Enjoy this delicious recipe of guacamole-stuffed sweet potatoes!",
+       "Method":[
+                {
+                 "steps":"Wash the sweet potatoes thoroughly. Pierce them several times with a fork, then place on a tray with baking paper. Bake at 400 degrees Fahrenheit for an hour. ."
+                },
+                {
+                 "steps":"While the sweet potatoes are baking, make the guacamole. Chop the onion, tomato, and serrano pepper. Juice the first lime, then mix its juice with the rest of the guacamole ingredients."
+                }
+,
+                {
+                 "steps":"For the dressing, juice the second lime and mix its juice with the tahini.."
+                }
+,
+                {
+                 "steps":"TOnce the sweet potatoes are ready, remove them from the oven and cut them lengthwise. Fill the sweet potatoes with guacamole and top with dressing."
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"4 sweet potatoes"
+                },
+                {
+                 "steps":"2 avocados"
+                },
+                {
+                 "steps":"1/4 purple onion"
+                },
+                {
+                 "steps":"1 tomato"
+                },
+                {
+                 "steps":"1 pinch of cilantro"
+                },
+                {
+                 "steps":"1 pinch of salt"
+                },
+                {
+                 "steps":"1 pinch of peppers"
+                },
+                {
+                 "steps":"1 lime"
+                },
+                {
+                 "steps":"1 pserrano pepper"
+                },
+                {
+                 "steps":"2 tablespoons tahini"
+                }
+                ]
+     },
+     {
+       "id":"e26",
+       "Name":"Tabouli Stuffed Tomatoes",
+       "image":"StuffedTomatoes",
+        "YoutubeURL":"",
+       "description":"These make great appetizers for a gathering or as a meal. The day I made these, I ate around 17 tomatoes in one sitting. They're so delicious! Tomatoes are a great acid fruit to incorporate into your salads for dinner. The tabouli also makes a great dish on its own.",
+       "Method":[
+                {
+                 "steps":"Cut out the stem from the top of each tomato, then remove the seeds through the hole."
+                },
+                {
+                 "steps":"Remove the cauliflower's center stalk, discard it, and process the rest of the cauliflower until it�s fairly fine. Chop the bell pepper, onion, cilantro, parsley, and serrano pepper very finely and mix well in a bowl with the juice from the lime. Stuff the tomatoes with your tabouli and enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"4 Roma tomatoes"
+                },
+                {
+                 "steps":"1 cauliflower"
+                },
+                {
+                 "steps":"1 red bell pepper"
+                },
+                {
+                 "steps":"1/4 red onion"
+                },
+                {
+                 "steps":"1 small bunch of cilantro"
+                },
+                {
+                 "steps":"1 small bunch of parsley"
+                },
+                {
+                 "steps":"1 lime"
+                },
+                {
+                 "steps":"serrano pepper (optional)"
+                }
+                ]
+     },
+     {
+       "id":"e27",
+       "Name":"Taco Filling",
+       "image":"TacoFilling",
+        "YoutubeURL":"",
+       "description":"This simple, filling, sweet, and savory recipe is SO GOOD! It has so much flavor! Add some serrano pepper for an extra kick. Raw corn adds great texture and flavor to your salads, it's truly perfect!",
+       "Method":[
+                {
+                 "steps":"Blend tomatoes, mango and dried tomatoes."
+                },
+                {
+                 "steps":"Cut cherry tomatoes in half, mince green onion and cilantro, and remove kernels from corn cobs. Mix these with the tomato-mango sauce and squeeze lime juice on top! Now take some lettuce leaves, fill them up, and top off with some avocado."
+                }
+
+              ],
+      "Ingredients":[
+                {
+                 "steps":"3 tomatoes "
+                },
+                {
+                 "steps":"2 pints cherry tomatoes"
+                },
+                {
+                 "steps":"1/2 cup dried tomatoes"
+                },
+                {
+                 "steps":"3 cobs of yellow corn"
+                },
+                {
+                 "steps":"1 green onion"
+                },
+                {
+                 "steps":"1 mango"
+                },
+                {
+                 "steps":"1/2 lime "
+                },
+                {
+                 "steps":"romaine lettuce hearts"
+                },
+                {
+                 "steps":"1/2 avocado"
+                },
+                {
+                 "steps":"1 small bunch of cilantro"
+                }
+                ]
+     },
+      {
+       "id":"28",
+       "Name":"Thai Rice",
+       "image":"ThaiRice",
+        "YoutubeURL":"https://www.youtube.com/watch?v=nG9aNpUxtpg&index=20&list=PLsbvKobPMbGpqOrR3Og9IJn3RC5j9ChgY&t=0s",
+       "description":"This rice tastes so delicious you won't believe it's good for you. Make this dish to share with friends, they'll love it!",
+       "Method":[
+                {
+                 "steps":"Place cauliflower in food processor and process with an S blade until you get a rice consistency. Set aside. ."
+                },
+                {
+                 "steps":"JRemove the tamarind from its shell. Soak in water until soft, then remove and discard all the seeds. Blend 1 tablespoon of the resulting paste along with the mangoes.
+
+"
+                },
+                {
+                 "steps":"Dice the bell pepper, pineapple, and celery stalks. Finely chop the cilantro and green onion. Juice the lime."
+                },
+                {
+                 "steps":"Stir the sauce and all of the other ingredients into the cauliflower rice. Let it sit for 15-30 minutes to enhance the flavors."
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"cauliflower"
+                },
+                {
+                 "steps":"2 mangoes"
+                },
+                {
+                 "steps":"1 tamarind"
+                },
+                {
+                 "steps":"1 red bell pepper"
+                },
+                {
+                 "steps":"1 1/2 cups pineapple"
+                },
+                {
+                 "steps":"2 celery stalks"
+                },
+                {
+                 "steps":"1 bunch of cilantro"
+                },
+                {
+                 "steps":"1 green onion "
+                },
+                {
+                 "steps":"1 lime"
+                }
+                ]
+     },
+      {
+       "id":"e29",
+       "Name":"Tomatoes Guacamole",
+       "image":"StuffedTomatoes",
+        "YoutubeURL":"",
+       "description":"This recipe is an explosion of flavor in your mouth! The guacamole is amazing and each bite makes you want more! And the best part is that you can have as much more as you want! The recipe is super nutritious and will make you happy, so enjoy your stuffed tomatoes until you're satisfied!",
+       "Method":[
+                {
+                 "steps":"Dice two tomatoes as well as the cucumber, radish, red onion, and serrano pepper. Juice the lime. Mix these ingredients with the avocados, mashing together with a fork to create a chunky guacamole.."
+                },
+                {
+                 "steps":"Cut the top off each of the remaining six tomatoes and scoop out the insides with a spoon. Stuff each tomato with your guacamole, garnish with cilantro, and enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"8 tomatoes"
+                },
+                {
+                 "steps":"2 avocados"
+                },
+                {
+                 "steps":"1 cup of cucumber"
+                },
+                {
+                 "steps":"1/2 radish"
+                },
+                {
+                 "steps":"1 small bunch of cilantro"
+                },
+                {
+                 "steps":"1/2 red onion"
+                },
+                {
+                 "steps":"1 lime"
+                },
+                {
+                 "steps":"1/2 serrano pepper "
+                }
+                ]
+     },{
+       "id":"e30",
+       "Name":"Tomato Towers",
+       "image":"TomatoTowers",
+        "YoutubeURL":"",
+       "description":"This recipe is an explosion of flavor in your mouth! The guacamole is amazing and each bite makes you want more! And the best part is that you can have as much more as you want! The recipe is super nutritious and will make you happy, so enjoy your stuffed tomatoes until you're satisfied!",
+       "Method":[
+                {
+                 "steps":"Dice two tomatoes as well as the cucumber, radish, red onion, and serrano pepper. Juice the lime. Mix these ingredients with the avocados, mashing together with a fork to create a chunky guacamole.."
+                },
+                {
+                 "steps":"Cut the top off each of the remaining six tomatoes and scoop out the insides with a spoon. Stuff each tomato with your guacamole, garnish with cilantro, and enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"8 tomatoes"
+                },
+                {
+                 "steps":"2 avocados"
+                },
+                {
+                 "steps":"1 cup of cucumber"
+                },
+                {
+                 "steps":"1/2 radish"
+                },
+                {
+                 "steps":"1 small bunch of cilantro"
+                },
+                {
+                 "steps":"1/2 red onion"
+                },
+                {
+                 "steps":"1 lime"
+                },
+                {
+                 "steps":"1/2 serrano pepper "
+                }
+                ]
+     }
+
+
+  
+           ]
+}

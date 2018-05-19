@@ -1,0 +1,669 @@
+{
+ "Mid":"5",
+ "Type":"Salads",
+"array":[
+     { 
+       "id":"sa1",
+       "Name":"Asian Salad",
+       "image":"AsianSalad",
+        "YoutubeURL":"",
+       "description":"This salad tastes amazing and is packed full of vitamins, minerals, and antioxidants. Savor the flavor while your body reaps all the health benefits. Enjoy!",
+       "Method":[
+                {
+                 "steps":"Shred all of the salad ingredients, then mix them together in a big bowl. Juice the lime, and put the juice in a blender along with the rest of the dressing ingredients (including mint leaves to taste). Blend the dressing, toss it with the salad, and enjoy!" 
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":" 4 carrots " 
+                },
+                {
+                 "steps":"1 cucumber"
+                },
+                {
+                 "steps":"1/4 red cabbage"
+                },
+                {
+                 "steps":"1 zucchini"
+                },
+                {
+                 "steps":"2 1/2 mangoes"
+                },
+                {
+                 "steps":"mint leaves"
+                },
+                {
+                 "steps":"1 lime"
+                },
+                {
+                 "steps":"1 small piece of serrano pepper"
+                }
+                ]
+   
+     },
+     { 
+       "id":"sa2",
+       "Name":"Broccoli Salad",
+       "image":"BroccoliSalad",
+        "YoutubeURL":"",
+       "description":"This delicious broccoli salad is a great reminder of why broccoli's bad reputation is undeserved! If you prepare it right, its incredibly good (and good for you). For the most flavorful, colorful, and nutritious results, use each of two different colors of bell pepper.",
+       "Method":[
+                {
+                 "steps":"Cut the broccoli into 2-inch pieces and process with an S blade until you get a smooth, grated texture. This will make the broccoli easy to eat and digest." 
+                },
+                {
+                "steps":"Chop the tomatoes, bell pepper, radishes, and green onion into small pieces. Mince the cilantro. Mix all of these ingredients together with the broccoli."
+                },
+                {
+                "steps":"Squeeze the juice of the lemons over the salad and let it sit for 15-20 minutes so the flavors come together harmoniously. Top with avocado chunks."
+                }
+
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1 head of broccoli" 
+                },
+                {
+                 "steps":"3 tomatoes "
+                },
+                {
+                 "steps":"1/4 orange bell pepper"
+                },
+                {
+                 "steps":"1/4 yellow bell pepper"
+                },
+                {
+                 "steps":"3 radishes "
+                },
+                {
+                 "steps":"1 green onion"
+                },
+                {
+                 "steps":"1/4 avocado"
+                },
+                {
+                 "steps":"1 small bunch of cilantro "
+                },
+                {
+                 "steps":"2 lemons"
+                }
+                ]
+     },
+     { 
+       "id":"sa3",
+       "Name":"Coles law",
+       "image":"Coleslaw",
+        "YoutubeURL":"",
+       "description":"TI love experimenting with different combinations of fruits and vegetables. When I was trying to flavor this coleslaw, I decided I wanted a sweet dressing, so apples were the perfect fit. The pine nuts give it a nice creamy texture to it, and the combination is simply delicious!",
+       "Method":[
+                {
+                 "steps":"Thinly shred the carrots, kale, and cabbage, then cut into smaller pieces to get the slaw texture. Mix together in a bowl." 
+                },
+                {
+                 "steps":"Cut the apples and zucchini into small pieces and place in a blender with the pine nuts, then blend well until smooth. Add to the slaw and mix well. Enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"4 large carrots" 
+                },
+                {
+                 "steps":"4 kale leaves"
+                },
+                {
+                 "steps":"1/4 red cabbage"
+                },
+                {
+                 "steps":"1/4 green cabbage"
+                },
+                {
+                 "steps":"2 apples"
+                },
+                {
+                 "steps":"1 zucchini"
+                },
+                {
+                 "steps":"1/4 cup pine nuts"
+                }
+                ]
+     },
+     { 
+       "id":"sa4",
+       "Name":"Cucumber Melon",
+       "image":"CucumberMelon",
+        "YoutubeURL":"",
+       "description":"Watermelon goes perfectly with cucumber, as you'll experience in this beautiful salad! Make eating salads fun and exciting with new textures like watermelon balls, then top it off with one of your favorite tomato dressings!",
+       "Method":[
+                {
+                 "steps":"Use a melon baller to make melon balls from the watermelon. Peel and spiralize the cucumber, then chop the cilantro, onion, and serrano pepper (optional). Dress with the juice from the lemon, and place on a bed of mixed greens." 
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1/2 mini watermelon" 
+                },
+                {
+                 "steps":"2 cucumbers"
+                },
+                {
+                 "steps":"1/4 red onion"
+                },
+                {
+                 "steps":"1 lemon"
+                },
+                {
+                 "steps":"1 small bunch of cilantro"
+                },
+                {
+                 "steps":"mixed greens "
+                },
+                {
+                 "steps":"serrano pepper (optional)"
+                }
+                ]
+     },
+     { 
+       "id":"sa5",
+       "Name":"Fall Salad",
+       "image":"FallSalad",
+        "YoutubeURL":"",
+       "description":"Every fall, I get excited to see the variety of fresh apples from the farmers' market. I love making sweet salads, so I decided to take some seasonal fall fruits and make an easy and delicious recipe! This is great to take to gatherings with friends and family. Hope you enjoy it!",
+       "Method":[
+                {
+                 "steps":"Deseed the pomegranate. You can do this cleanly by cutting the pomegranate in half and placing it into a bowl of water. Use your hands to peel out the seeds underwater. The rind and peel will float while the seeds will sink. Discard the rind and peel, and keep the seeds." 
+                },
+                {
+                 "steps":"Chop up the other ingredients and mix together in a bowl. Add the pomegranate seeds and stir well for a bright salad that shines!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"5 apples" 
+                },
+                {
+                 "steps":"5 oranges"
+                },
+                {
+                 "steps":"3 pomegranates"
+                },
+                {
+                 "steps":" 1 small bunch of parsley"
+                },
+                {
+                 "steps":"1 small bunch of basil"
+                }
+                ]
+     },
+     { 
+       "id":"sa6",
+       "Name":"Festive Salad",
+       "image":"FestiveSalad",
+        "YoutubeURL":"",
+       "description":"I made this recipe on Thanksgiving for my whole family and used all of the vegetable ingredients I had at home. Everyone loved it, asked for more when it was finished, and didn't even notice all the vegetables they were eating! You can add some serrano or jalape'o pepper if you want it to have a spicy kick.",
+       "Method":[
+                {
+                 "steps":"Cut the broccoli into medium-sized pieces and process with an S blade until it obtains a rice-like texture. Place in a bowl. " 
+                },
+                {
+                 "steps":"Dice the cauliflower to add some texture to the salad and give it a nice crunch. Add it to the bowl with the broccoli."
+                },
+                {
+                 "steps":"Finely chop the remaining ingredients (except for the lemon and lime), and mix them into the bowl with the broccoli and cauliflower. Squeeze the juice from the lemon and lime over the salad when you're ready to serve it."
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1 cauliflower" 
+                },
+                {
+                 "steps":" 1 red bell pepper"
+                },
+                {
+                 "steps":"1 yellow bell pepper"
+                },
+                {
+                 "steps":"1 orange bell pepper"
+                },
+                {
+                 "steps":" 5 tomatoes"
+                },
+                {
+                 "steps":"2 pints of cherry tomatoes"
+                },
+                {
+                 "steps":"1 head of broccoli"
+                },
+                {
+                 "steps":" 1/4 red onion"
+                },
+                {
+                 "steps":"1 small bunch of parsley"
+                },
+                {
+                 "steps":"1/2 lemon"
+                },
+                {
+                 "steps":" 1 small bunch of cilantro"
+                },
+                {
+                 "steps":"1/2 lime"
+                },
+                {
+                 "steps":"serrano pepper (optional)"
+                }
+                ]
+     },
+     { 
+       "id":"sa7",
+       "Name":"Heirloom Salad",
+       "image":"HeirloomTomato",
+        "YoutubeURL":"",
+       "description":"I have a special relationship with tomatoes, but heirloom tomatoes are my absolute favorite kind! I discovered them the first summer I was a raw vegan and couldn't get enough of them. Enjoy the different textures from this salad and the sweetness of these gorgeous tomatoes. Each one has its own unique taste!",
+       "Method":[
+                {
+                 "steps":"Chop chop chop! Cut the tomatoes into slices, the cherry tomatoes in half, and the zucchini and bell peppers into small thin strips. Mince the cilantro and serrano pepper (optional), and cut the red onion into small pieces as well. Mix together, then squeeze the juice from the lime over the salad. Enjoy!" 
+                }
+                
+              ],
+      "Ingredients":[
+                {
+                 "steps":"mixed greens as desired " 
+                },
+                {
+                 "steps":"8 heirloom tomatoes"
+                },
+                {
+                 "steps":"1 pint cherry tomatoes"
+                },
+                {
+                 "steps":"1 zucchini"
+                },
+                {
+                 "steps":"1/2 orange bell pepper"
+                },
+                {
+                 "steps":"1/2 red bell pepper"
+                },
+                {
+                 "steps":"1/4 red onion"
+                },
+                {
+                 "steps":"1 small bunch of cilantro"
+                },
+                {
+                 "steps":"1 lime"
+                },
+                {
+                 "steps":"serrano pepper (optional)"
+                }
+                ]
+     },
+            {
+             "id":"sa8",
+             "Name":"Jicama Salad",
+             "image":"JicamaSalad",
+              "YoutubeURL":"",
+             "description":"This salad tastes so good! It's light, refreshing and hydrating! This is the perfect salad to share with friends and family when the weather is warm and the sun is shining.",
+             "Method":[
+                      {
+                       "steps":"Julienne the jicama, cucumber, and bell pepper. Slice the strawberries. Thinly slice the serrano pepper to taste (optional). Zest the orange and lime, retaining the zest, then juice the lime and peel and dice the orange. Mince cilantro to taste."
+                      },
+                      {
+                       "steps":"Mix all ingredients (except the avocado) in a big bowl. The lime juice will act as a dressing. Slice or cube the avocado and use it to top the salad. Enjoy!"
+                      }
+                    ],
+            "Ingredients":[
+                      {
+                       "steps":"4 cups jicama"
+                      },
+                      {
+                       "steps":"1 cucumber"
+                      },
+                      {
+                       "steps":"1 red bell pepper"
+                      },
+                      {
+                       "steps":"1/2 cup strawberries"
+                      },
+                      {
+                       "steps":"1 orange"
+                      },
+                      {
+                       "steps":"cilantro"
+                      },
+                      {
+                       "steps":"1 green onion"
+                      },
+                      {
+                       "steps":"serrano pepper (optional)"
+                      },
+                      {
+                       "steps":"1 avocado"
+                      },
+                      {
+                       "steps":"1 lime"
+                      }
+                      ]
+           },
+            {
+             "id":"sa9",
+             "Name":"Mango Tomato Salad",
+             "image":"MangoTomato",
+              "YoutubeURL":"",
+             "description":"Mango and tomato is a beloved flavor combination, so I think you'll love this salad! It's especially good during summer when heirloom tomatoes are in season. Feel free to try a variety of heirloom tomato colors like red, green, and yellow. Sweet and delicious. BLISS!",
+             "Method":[
+                      {
+                       "steps":"Place your greens in a large bowl. Juice the lime. Cut up all the remaining ingredients, then mix well with lime juice. That's it, you've made yourself a delicious salad! "
+                      }
+                    ],
+            "Ingredients":[
+                      {
+                       "steps":"mixed greens"
+                      },
+                      {
+                       "steps":"3 mangoes"
+                      },
+                      {
+                       "steps":"3 heirloom tomatoes"
+                      },
+                      {
+                       "steps":"1/4 red onion"
+                      },
+                      {
+                       "steps":"3 celery stalks"
+                      },
+                      {
+                       "steps":"1 small bunch of parsley"
+                      },
+                      {
+                       "steps":"1 lime"
+                      },
+                      {
+                       "steps":"1 small bunch of cilantro"
+                      },
+                      {
+                       "steps":"serrano pepper (optional)"
+                      },
+                      {
+                       "steps":"1 small piece of ginger"
+                      },
+                      {
+                       "steps":"nopales (optional)"
+                      }
+                      ]
+           }
+           ,
+                      {
+                        "id":"sa10",
+                        "Name":"Marinated Kale",
+                        "image":"MarinatedKale",
+                         "YoutubeURL":"",
+                        "description":"This is the juice recipe for day one of the 3-day Rawvana Juice Detox! These ingredients make one serving of juice. You'll need three of these during the day, one for each meal. Congrats on taking a great step toward improving your health! Visit my YouTube channel at www.youtube.com/officialrawvana for more information.",
+                        "Method":[
+                                 {
+                                  "steps":"Let's do this! Peel the lemon, and place it in the the juicer with the rest of the ingredients. Drink up and enjoy!"
+                                 }
+                               ],
+                       "Ingredients":[
+                                 {
+                                  "steps":" 10 carrots"
+                                 },
+                                 {
+                                  "steps":"1 beet"
+                                 },
+                                 {
+                                  "steps":"1 celery stalk"
+                                 },
+                                 {
+                                  "steps":" 5 apples"
+                                 },
+                                 {
+                                  "steps":"1 lemon"
+                                 }
+
+                                 ]
+
+                      },
+                      {
+                        "id":"sa11",
+                        "Name":"Massaged Kale",
+                        "image":"MassagedKale",
+                         "YoutubeURL":"",
+                        "description":"Day two of Rawvana Juice DETOX! You will make three of these juices today: one each for breakfast, lunch, and dinner. All of these ingredients make one serving of juice. Remember to stay hydrated and drink a lot of water. This juice is high in vitamin C, antioxidants, and minerals. Enjoy, and feel your body detoxify.",
+                        "Method":[
+                                 {
+                                  "steps":"Get JUICY! Peel the grapefruit, and place in the juicer with the rest of the ingredients."
+                                 },
+                                 {
+                                  "steps":"Insert a wooden stick into the top of an apple, then cover the entire apple with date paste using a small spatula."
+                                 },
+                                 {
+                                  "steps":"Roll your apples around on your desired toppings. Some ideas include cinnamon, nutmeg, carob powder, and crushed almonds."
+                                 }
+
+                               ],
+                       "Ingredients":[
+                                 {
+                                  "steps":"2 grapefruits"
+                                 },
+                                 {
+                                  "steps":"2 cucumbers "
+                                 },
+                                 {
+                                  "steps":"1/2 small pineapple"
+                                 },
+                                 {
+                                  "steps":"1 celery stalk"
+                                 },
+                                 {
+                                  "steps":"1 head of romaine lettuce"
+                                 },
+                                 {
+                                  "steps":"1 small bunch of parsley"
+                                 }
+                                 ]
+                      },
+                      {
+                        "id":"sa12",
+                        "Name":"Nopal MexicanSalad",
+                        "image":"NopalSalad",
+                         "YoutubeURL":"",
+                        "description":"It's Day 3! Congrats! After today, you've finished the 3-day Rawvana Juice DETOX! Remember, you can enjoy any of these juices even if you're not doing the detox. Drink up and feel them nourish your cells! You will need to make three of these for the last day of the juice detox.",
+                        "Method":[
+                                 {
+                                  "steps":"Let's make some juice! Place all ingredients in juicer, and enjoy!"
+                                 }
+                               ],
+                       "Ingredients":[
+                                 {
+                                  "steps":"2 cucumbers"
+                                 },
+                                 {
+                                  "steps":"1 celery stalk"
+                                 },
+                                 {
+                                  "steps":"1 head of romaine lettuce"
+                                 },
+                                 {
+                                  "steps":"6 apples"
+                                 },
+                                 {
+                                  "steps":"1/2 pinapple"
+                                 }
+                                 ]
+                      },
+                      {
+                        "id":"sa13",
+                        "Name":"Not Potato Salad",
+                        "image":"NotPotatoSalad",
+                         "YoutubeURL":"",
+                        "description":"I recommend this juice for anyone suffering from anemia, hair loss, bad skin, or low energy. This juice has so many veggies that will benefit you immensely. All the nutrients will be absorbed into your bloodstream faster and you will receive tons of important vitamins and minerals that you need.",
+                        "Method":[
+                                 {
+                                  "steps":"Peel the lemon and discard the peel. Place all of the ingredients in a juice extractor, and enjoy!"
+                                 }
+                               ],
+                       "Ingredients":[
+                                 {
+                                  "steps":"1 beet"
+                                 },
+                                 {
+                                  "steps":"3 kale leaves"
+                                 },
+                                 {
+                                  "steps":"5 celery stalks"
+                                 },
+                                 {
+                                  "steps":"2 young coconuts"
+                                 },
+                                 {
+                                  "steps":"5 carrots"
+                                 },
+                                 {
+                                  "steps":"1 lemon"
+                                 },
+                                 {
+                                  "steps":"1 piece of ginger"
+                                 }
+                                 ]
+                      },
+                      {
+                        "id":"sa14",
+                        "Name":"Persimmon Salad",
+                        "image":"PersimmonSalad",
+                         "YoutubeURL":"",
+                        "description":"Our organs are continually working, and adding more fresh juices to our diet helps to give them a rest and nourish our cells at the same time. This juice will help keep your liver clean so it can process blood more efficiently.",
+                        "Method":[
+                                 {
+                                  "steps":"Peel the grapefruit, then place all ingredients in a juice extractor, serve, and enjoy!."
+                                 }
+                               ],
+                       "Ingredients":[
+                                 {
+                                  "steps":"1/2 red apple"
+                                 },
+                                 {
+                                  "steps":"2 grapefruit"
+                                 },
+                                 {
+                                  "steps":"1 beet"
+                                 },
+                                 {
+                                  "steps":"1 cucumber"
+                                 },
+                                 {
+                                  "steps":"1 celery stalk"
+                                 }
+                                 ]
+                      },
+                      {
+                        "id":"sa15",
+                        "Name":"PotatoAvocado Salad",
+                        "image":"PotatoAvocado",
+                         "YoutubeURL":"",
+                        "description":"Nopal comes from the cactus plant. It's very common in Mexico and is used to treat inflammation, internally and externally. We make this juice at home every morning because it's refreshing, delicious, and a great way to start your day.",
+                        "Method":[
+                                 {
+                                  "steps":"Let's get juicing! Wash, peel, and cut ingredients. Place into juicer and juice away!"
+                                 }
+                               ],
+                       "Ingredients":[
+                                 {
+                                  "steps":"4 oranges"
+                                 },
+                                 {
+                                  "steps":"1/4 pineapple"
+                                 },
+                                 {
+                                  "steps":"1 cucumber"
+                                 },
+                                 {
+                                  "steps":"1 celery stalk"
+                                 },
+                                 {
+                                  "steps":"2 nopales"
+                                 },
+                                 {
+                                  "steps":"1 small bunch of parsley"
+                                 }
+                                 ]
+                      },
+                      {
+                        "id":"sa16",
+                        "Name":"Rainbow Salad",
+                        "image":"RainbowSalad",
+                         "YoutubeURL":"",
+                        "description":"Get ready for a party in your mouth with this delightful combination. Passion fruit contains potassium, which will balance the sodium levels in your body. Another fantastic way to eat it is scooped over diced watermelon. Yum!",
+                        "Method":[
+                                 {
+                                  "steps":"Juice the oranges. Cut the passion fruit in half and scoop out the insides, then mix the insides with the orange juice."
+                                 }
+
+                               ],
+                       "Ingredients":[
+                                 {
+                                  "steps":"8 oranges "
+                                 },
+                                 {
+                                  "steps":"8 passion fruit"
+                                 }
+                                 ]
+                      },
+                       {
+                        "id":"sa17",
+                        "Name":"Summer Salad",
+                        "image":"SummerSalad",
+                         "YoutubeURL":"",
+                        "description":"Looking for something bright, tangy, and refreshing? Look no further! This brightly colored juice perfectly balances sweet and tart notes for a drink that's perfect for a summer brunch.",
+                        "Method":[
+                                 {
+                                  "steps":"Use a citrus juicer to make pomegranate juice. Cut the pomegranate in half and juice it the way you would juice an orange. Juice the oranges the same way."
+                                 },
+                                 {
+                                  "steps":"Juice the pineapple in a normal juicer."
+                                 },
+                                 {
+                                  "steps":"Pour all of the juices into a pitcher and mix well. Fill up some of your favorite glasses and enjoy."
+                                 }
+                               ],
+                       "Ingredients":[
+                                 {
+                                  "steps":"1 small pineapple"
+                                 },
+                                 {
+                                  "steps":"5 oranges"
+                                 },
+                                 {
+                                  "steps":"2 pomegranates"
+                                 }
+                                 ]
+                      },
+                       {
+                        "id":"sa18",
+                        "Name":"Veggie MangoSalad",
+                        "image":"BroccoliSalad",
+                         "YoutubeURL":"",
+                        "description":"This juice is so good for your skin! Remember that the skin is a reflection of what is going on inside of the body. The more fruits and veggies and raw foods you eat, the more benefits you will see in your skin and overall health. So drink this juice and watch your skin glow!",
+                        "Method":[
+                                 {
+                                  "steps":"Place all ingredients in a juice extractor, including ginger to taste, and enjoy!"
+                                 }
+                               ],
+                       "Ingredients":[
+                                 {
+                                  "steps":"1 sweet potato"
+                                 },
+                                 {
+                                  "steps":"1 cucumber"
+                                 },
+                                 {
+                                  "steps":"1 1/2 cups pineapple"
+                                 },
+                                 {
+                                  "steps":"ginger"
+                                 }
+                                 ]
+                      },
+
+           ]
+}

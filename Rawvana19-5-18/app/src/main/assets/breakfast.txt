@@ -1,0 +1,229 @@
+{
+ "Mid":"3",
+ "Type":"Breakfast",
+ "array":[
+      {
+       "id":"b1",
+       "Name":"Apple Pie Overnight Oats",
+       "image":"SoakedOvernightOats",
+       "YoutubeURL":"",
+       "description":"Beets offer a unique color and an earthy flavor with touches of sweetness. The coconut meat adds creaminess to the soup, and the rest of the ingredients enhance the flavor and add nutrients that make this soup a complete dish.",
+       "Method":[
+                {
+                 "steps":"Peel the beets. Remove the meat from the young coconut. Juice the lemon" 
+                },
+                {
+                 "steps":"Place beets, coconut meat, green onion, celery, basil to taste, and lemon juice (optional) in the blender and blend well for 1-2 minutes. The longer you blend it, the warmer this beautifully colored soup will get."
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":" 3 beets" 
+                },
+                {
+                 "steps":"1 young coconut"
+                },
+                {
+                 "steps":"1 green onion"
+                },
+                {
+                 "steps":"basil"
+                },
+                {
+                 "steps":"1 lemon (optional)"
+                },
+                {
+                 "steps":"3 stalks celery"
+                }
+                ]
+     },
+     {
+       "id":"b2",
+       "Name":"Breakfast Oatmeal",
+       "image":"Oatmeal",
+        "YoutubeURL":"https://www.youtube.com/watch?v=swA9FEPDsG8&index=13&list=PLsbvKobPMbGpqOrR3Og9IJn3RC5j9ChgY&t=0s",
+       "description":"This dish is from Day 3 of the GET RAW Challenge where you replace one meal a day with a raw vegan meal. For complete information on the challenge, visit my YouTube channel at www.youtube.com/rawvanaeng. Oatmeal used to be one of my favorite meals, but unfortunately its highly processed and not optimal for maximum nutrition. This oatmeal is made from whole foods. Its sweet, creamy, and fresh, making it the perfect breakfast!",
+       "Method":[
+                {
+                 "steps":"Place all ingredients (except banana/almond milk) in the blender or food processor, using cinnamon powder to taste. Pulse to obtain a chunky texture. Pour into a bowl and enjoy your freshly made cereal, mixing in almond milk or Banana Mylk if you like!"
+                },
+                {
+                 "steps":"Place the carrots, orange, and dried tomatoes in the blender and blend well for 1-2 minutes. The longer you blend this soup, the warmer it will get."
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"3 bananas"
+                },
+                {
+                 "steps":"3 apples "
+                },
+                {
+                 "steps":"5 dates"
+                },
+                {
+                 "steps":"1/2 cup raisins"
+                },
+                {
+                 "steps":"cinnamon powder"
+                },
+                {
+                 "steps":"Banana Milk (optional recipe in 1/4Smoothies 1/4 section)"
+                },
+                {
+                 "steps":"almond milk (optional recipe in 1/2Juices 1/2 section)"
+                }
+                ]
+     },
+     {
+       "id":"b3",
+       "Name":"Chia Pudding",
+       "image":"ChiaPudding",
+        "YoutubeURL":"",
+       "description":"Cacao is a great plant-based source of iron and magnesium, which help keep your heart and brain healthy. Ladies, its also a great anti-cramp food for when you re on your period. Oh, and did I mention it has more calcium than cow's milk? Yep! Cacao is a super food and it will improve your mood, so get your happy buzz on!",
+       "Method":[
+                {
+                 "steps":"In a bowl, combine 2 tablespoons of chia seeds, coconut milk, cacao powder, date paste, and vanilla extract."
+                },
+                {
+                 "steps":"Separately, blend the strawberries, dates, and remaining 1 tablespoon of chia seeds."
+                },
+                {
+                 "steps":"Let both mixtures sit separately in the fridge overnight or for at least 3 hours."
+                },
+                {
+                 "steps":"Let both mixtures sit separately in the fridge overnight or for at least 3 hours."
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"3 tablespoons chia seeds"
+                },
+                {
+                 "steps":"1/2 cup coconut milk"
+                },
+                {
+                 "steps":"1 tablespoon cacao powder"
+                },
+                {
+                 "steps":"2 teaspoons date paste"
+                },
+                {
+                 "steps":"1 teaspoon vanilla extract"
+                },
+                {
+                 "steps":"1 cup strawberries"
+                },
+                {
+                 "steps":"4 dates"
+                }
+                ]
+     },
+     {
+       "id":"b4",
+       "Name":"Raw Vegan Cereal",
+       "image":"Cereal",
+        "YoutubeURL":"",
+       "description":"Perfect for breakfast or dinner! Easy to make and perfect for children as a healthful substitute to traditional cereal. The great thing is that you can use whatever fruits you want in whatever proportions you want. Here are some of my favorites, but be creative!",
+       "Method":[
+                {
+                 "steps":"Cut up all fresh fruits, finely chop the date, and place them in a cereal bowl. Pour your Banana Mylk over the fruit. Top with the chia seeds, and enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"Banana Mylk (recipe in Smoothies section)"
+                },
+                {
+                 "steps":"apple"
+                },
+                {
+                 "steps":"mixed berries"
+                },
+                {
+                 "steps":"banana"
+                },
+                {
+                 "steps":"raisins"
+                },
+                {
+                 "steps":"raisins"
+                },
+                {
+                 "steps":"raisins  1 tablespoon chia seeds"
+                }
+                ]
+     },
+     {
+       "id":"b5",
+       "Name":"Simple Cereal",
+       "image":"Cereal2",
+        "YoutubeURL":"",
+       "description":"Vegan cereal! The best part is that the milk is banana-based, very fresh, homemade, and sugar-free! You can add vegan granola to your cereal to give it that amazing crunch!",
+       "Method":[
+                {
+                 "steps":"Blend thoroughly and pour into a bowl. There are a lot of options to add to your cereal, like my vegan granola or sliced fruits."
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"2 dates"
+                },
+                {
+                 "steps":"1 banana"
+                },
+                {
+                 "steps":"1 teaspoon vanilla powder "
+                },
+                {
+                 "steps":"1 cup water"
+                }
+                ]
+     },
+     {
+       "id":"b6",
+       "Name":"Vegan Granola",
+       "image":"Granola",
+        "YoutubeURL":"https://www.youtube.com/watch?v=C52d5RCzZjM&t=0s&list=PLsbvKobPMbGpqOrR3Og9IJn3RC5j9ChgY&index=3",
+       "description":"Vegan granola! Buckwheat is a whole grain thats gluten-free and contains all of the amino acids our bodies need. Add this granola to your smoothies, smoothie bowls, or vegan yogurt, or put it on top of fruit!",
+       "Method":[
+                {
+                 "steps":"Preheat the oven to 350 degrees Fahrenheit. Blend the dates, peanut butter, and a little water."
+                },
+                {
+                 "steps":"In another bowl, mix the buckwheat, dehydrated coconut, cinnamon, maca powder, and vanilla powder."
+                },
+                {
+                 "steps":"Mix the date paste with the dry mixture and combine thoroughly with your hands. "
+                },
+                {
+                 "steps":"Spread the granola on a tray. Bake granola at 350 degrees Fahrenheit for 15-20 minutes. "
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1 cup buckwheat"
+                },
+                {
+                 "steps":"10 dates"
+                },
+                {
+                 "steps":"1 tablespoon peanut butter "
+                },
+                {
+                 "steps":"1/4 cup dehydrated coconut"
+                },
+                {
+                 "steps":"1 teaspoon cinnamon powder"
+                },
+                {
+                 "steps":"1/2 teaspoon maca powder"
+                },
+                {
+                 "steps":"1/4 teaspoon vanilla powder"
+                }
+                ]
+
+   }
+           ]
+}

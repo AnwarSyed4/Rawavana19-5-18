@@ -1,0 +1,36 @@
+{
+"recipelist":[
+     { 
+       "id":"1",
+       "Name":"Breakfast"
+     },
+     { 
+       "id":"2",
+       "Name":"Desserts"
+     },
+     { 
+       "id":"3",
+       "Name":"Dishes"
+     },
+     { 
+       "id":"4",
+       "Name":"Juices"
+     },
+     { 
+       "id":"5",
+       "Name":"Salads"
+     },
+     { 
+       "id":"6",
+       "Name":"Sauces Dips"
+     },
+     { 
+       "id":"7",
+       "Name":"Smoothies"
+     },
+     { 
+       "id":"8",
+       "Name":"Soups"
+     }
+             ]
+}

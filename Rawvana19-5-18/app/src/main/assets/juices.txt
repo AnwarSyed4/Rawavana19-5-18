@@ -1,0 +1,588 @@
+{
+ "Mid":"4",
+ "Type":"Juices",
+"array":[
+     { 
+       "id":"j1",
+       "Name":"Agua De Horchata",
+       "image":"Horchata",
+        "YoutubeURL":"",
+       "description":"This delicious agua de horchata' is a Mexican delicacy! It tastes so good and fresh, and is perfect for summer time. The original recipe is full of animal products, sugar and fat but this recipe is good for you, tastes fresh, has whole foods and is so, so easy to make. You won't be disappointed!",
+       "Method":[
+                {
+                 "steps":"Pit the dates. Juice the jicamas. Blend the dates and jicama juice with the rest of the ingredients, including cinnamon powder to taste, and enjoy!" 
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":" 3 jicamas" 
+                },
+                {
+                 "steps":"2 cups coconut water"
+                },
+                {
+                 "steps":"7 dates"
+                },
+                {
+                 "steps":"cinnamon powder"
+                }
+                ]
+   
+     },
+     { 
+       "id":"j2",
+       "Name":"Almond Milk",
+       "image":"AlmondMilk",
+        "YoutubeURL":"",
+       "description":"This recipe is perfect for anyone who is looking for a great dairy milk substitute. I honestly never really liked milk, but this recipe makes me love love love it! It tastes so good and it's so easy to make! Perfect for all raw vegans, vegans, and even non-vegans.",
+       "Method":[
+                {
+                 "steps":"Soak the almonds in water overnight. Discard the soaking water. Place the soaked almonds and the two cups of water in a blender and blend well. Strain to remove all the leftover almonds and create your milk. Then blend the milk with the dates and vanilla to taste, and enjoy!" 
+                }
+
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1 cup almonds" 
+                },
+                {
+                 "steps":"3 dates "
+                },
+                {
+                 "steps":"2 cups water"
+                },
+                {
+                 "steps":"vanilla bean or vanilla extract (optional)"
+                }
+                ]
+     },
+     { 
+       "id":"j3",
+       "Name":"Anti Cancer",
+       "image":"AntiCancerJuice",
+        "YoutubeURL":"",
+       "description":"This recipe is perfect for anyone who is looking for a great dairy milk substitute. I honestly never really liked milk, but this recipe makes me love love love it! It tastes so good and it's so easy to make! Perfect for all raw vegans, vegans, and even non-vegans.",
+       "Method":[
+                {
+                 "steps":"Soak the almonds in water overnight. Discard the soaking water. Place the soaked almonds and the two cups of water in a blender and blend well. Strain to remove all the leftover almonds and create your milk. Then blend the milk with the dates and vanilla to taste, and enjoy!" 
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1 cup almonds" 
+                },
+                {
+                 "steps":"3 dates"
+                },
+                {
+                 "steps":"2 cups water"
+                },
+                {
+                 "steps":"vanilla bean or vanilla extract (optional)"
+                }
+                ]
+     },
+     { 
+       "id":"j4",
+       "Name":"Belly Bloat",
+       "image":"BellyBloat",
+        "YoutubeURL":"",
+       "description":"I researched the fruits, veggies, and herbs with the most potency to reduce inflammation of the stomach and eliminate gases, and I created a unique and efficient juice recipe. Watermelon is diuretic and helps against water retention, celery helps inflammation of the stomach, cucumber keeps you hydrated and helps improve your digestion, and rosemary helps to eliminate gases. Besides, it's delicious!",
+       "Method":[
+                {
+                 "steps":"Place the juice ingredients in a juice extractor. Thinly slice the lemon and cucumber, and cut up the remaining  watermelon, then pour the juice over the add-ons, using rosemary to taste. Serve and enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1/2 watermelon" 
+                },
+                {
+                 "steps":"1 celery stalk"
+                },
+                {
+                 "steps":"1 cucumber"
+                },
+                {
+                 "steps":"1/4 watermelon"
+                },
+                {
+                 "steps":"1 lemon or lime"
+                },
+                {
+                 "steps":"1 cucumber"
+                },
+                {
+                 "steps":"rosemary"
+                }
+                ]
+     },
+     { 
+       "id":"j5",
+       "Name":"Constipation Juice",
+       "image":"ConstipationJuice",
+        "YoutubeURL":"",
+       "description":"This juice is perfect for anyone who has digestion issues, constipation, or just maybe had a heavy lunch and is having problems going to the restroom. The pineapple, orange, and grapefruit juices give it a tropical taste and you'll feel so good after drinking it. ",
+       "Method":[
+                {
+                 "steps":"Blend the juices with the pineapple, ginger, and cayenne powder to taste. Enjoy!" 
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"2 cups grapefruit juice" 
+                },
+                {
+                 "steps":"2 cups orange juice"
+                },
+                {
+                 "steps":"1/4 pineapple"
+                },
+                {
+                 "steps":"1 piece of ginger"
+                },
+                {
+                 "steps":"1 cup dried mulberries"
+                },
+                {
+                 "steps":"cayenne powder"
+                }
+                ]
+     },
+     {
+       "id":"j6",
+       "Name":"Daily Detox Green Juice",
+       "image":"DailyDetoxGreenJuice",
+        "YoutubeURL":"",
+       "description":"This green juice will leave you wanting more! Its not only delicious, but also nutritious. This recipe is perfect for an everyday morning juice because it will get your metabolism going and will wake you up more than any coffee could.",
+       "Method":[
+                {
+                 "steps":"Peel the lemon, then place all ingredients in a juice extractor and enjoy!"
+                },
+                {
+                 "steps":"Cube the remaining mango and pineapple. Put salsa in a tall glass, followed by a layer of mango and pineapple, followed by ice cream. Top off with more salsa and fresh fruit!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1 cucumber"
+                },
+                {
+                 "steps":" 1 chard leaf"
+                },
+                {
+                 "steps":"1 kale leaf"
+                },
+                {
+                 "steps":"1 lemon"
+                },
+                {
+                 "steps":" 6 celery stalks"
+                },
+                {
+                 "steps":"1 small bunch of parsley"
+                },
+                {
+                 "steps":"1 small piece of ginger"
+                }
+                ]
+     },
+     {
+       "id":"j7",
+       "Name":"Ginger Shots",
+       "image":"GingerShots",
+        "YoutubeURL":"",
+       "description":"Ginger has been used throughout time medicinally, and remember, let food be thy medicine! These shots are so good for you and your overall health. The ingredients in this recipe will help you boost your metabolism, get your digestion going, provide some anti-inflammatory benefits, and so much more!",
+       "Method":[
+                {
+                 "steps":"Juice all of the ingredients, using cayenne pepper to taste, and enjoy!"
+                }
+
+              ],
+      "Ingredients":[
+                {
+                 "steps":"2 inches ginger "
+                },
+                {
+                 "steps":"2 inches turmeric root"
+                },
+                {
+                 "steps":"cayenne pepper"
+                },
+                {
+                 "steps":"1 lime or lemon"
+                },
+                {
+                 "steps":"1 bunch of cilantro"
+                },
+                {
+                 "steps":"1 bunch of parsley"
+                }
+                ]
+     },
+      {
+       "id":"j8",
+       "Name":"Healthy Skin",
+       "image":"HealthySkin",
+        "YoutubeURL":"",
+       "description":"My secret for healthy skin? Eat and drink food high in water content! Tomatoes are a fruit containing more than 96% water. Their red color represents lycopene, which helps skin collagen. Celery is rich in vitamin A and E, which help to maintain your smooth skin and keep you hydrated from the inside out. This juice will help keep your skin luminous and young.",
+       "Method":[
+                {
+                 "steps":"Place all ingredients in the juice extractor, serve, and enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"6 tomatoes"
+                },
+                {
+                 "steps":"1 celery stalk"
+                },
+                {
+                 "steps":"1 lemon"
+                }
+                ]
+     },
+      {
+       "id":"j9",
+       "Name":"Immune Booster",
+       "image":"ImmuneBoosterJuice",
+        "YoutubeURL":"",
+       "description":"Drink up! This nutrient-rich cocktail is not only delicious, but will fortify your immune system, leaving you feeling great. Remember to chew your juice, because digestion begins in your mouth and your saliva has an important role in the process.",
+       "Method":[
+                {
+                 "steps":"Juice, juice, and more juice! Peel the lemon, and place all the ingredients in juicer. Presto!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"2 beets"
+                },
+                {
+                 "steps":"4 carrots"
+                },
+                {
+                 "steps":"1 cucumber"
+                },
+                {
+                 "steps":"4 celery stalks"
+                },
+                {
+                 "steps":"1 small bunch of kale"
+                },
+                {
+                 "steps":"1 lemon"
+                },
+                {
+                 "steps":"1 small piece of ginger"
+                },
+                {
+                 "steps":"1 small piece of turmeric"
+                }
+                ]
+     },
+     {
+       "id":"j10",
+       "Name":"Juice Detox Day1",
+       "image":"JuiceDetox1",
+        "YoutubeURL":"",
+       "description":"This is the juice recipe for day one of the 3-day Rawvana Juice Detox! These ingredients make one serving of juice. Youll need three of these during the day, one for each meal. Congrats on taking a great step toward improving your health! Visit my YouTube channel at www.youtube.com/officialrawvana for more information.",
+       "Method":[
+                {
+                 "steps":"Let's do this! Peel the lemon, and place it in the the juicer with the rest of the ingredients. Drink up and enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":" 10 carrots"
+                },
+                {
+                 "steps":"1 beet"
+                },
+                {
+                 "steps":"1 celery stalk"
+                },
+                {
+                 "steps":" 5 apples"
+                },
+                {
+                 "steps":"1 lemon"
+                }
+
+                ]
+
+     },
+     {
+       "id":"j11",
+       "Name":"Juice Detox Day2",
+       "image":"JuiceDetox2",
+        "YoutubeURL":"",
+       "description":"Day two of Rawvana Juice DETOX! You will make three of these juices today: one each for breakfast, lunch, and dinner. All of these ingredients make one serving of juice. Remember to stay hydrated and drink a lot of water. This juice is high in vitamin C, antioxidants, and minerals. Enjoy, and feel your body detoxify.",
+       "Method":[
+                {
+                 "steps":"Get JUICY! Peel the grapefruit, and place in the juicer with the rest of the ingredients."
+                },
+                {
+                 "steps":"Insert a wooden stick into the top of an apple, then cover the entire apple with date paste using a small spatula."
+                },
+                {
+                 "steps":"Roll your apples around on your desired toppings. Some ideas include cinnamon, nutmeg, carob powder, and crushed almonds."
+                }
+
+              ],
+      "Ingredients":[
+                {
+                 "steps":"2 grapefruits"
+                },
+                {
+                 "steps":"2 cucumbers "
+                },
+                {
+                 "steps":"1/2 small pineapple"
+                },
+                {
+                 "steps":"1 celery stalk"
+                },
+                {
+                 "steps":"1 head of romaine lettuce"
+                },
+                {
+                 "steps":"1 small bunch of parsley"
+                }
+                ]
+     },
+     {
+       "id":"j12",
+       "Name":"Juice Detox Day3",
+       "image":"JuiceDetox3",
+        "YoutubeURL":"",
+       "description":"Its Day 3! Congrats! After today, you've finished the 3-day Rawvana Juice DETOX! Remember, you can enjoy any of these juices even if you're not doing the detox. Drink up and feel them nourish your cells! You will need to make three of these for the last day of the juice detox.",
+       "Method":[
+                {
+                 "steps":"Let's make some juice! Place all ingredients in juicer, and enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"2 cucumbers"
+                },
+                {
+                 "steps":"1 celery stalk"
+                },
+                {
+                 "steps":"1 head of romaine lettuce"
+                },
+                {
+                 "steps":"6 apples"
+                },
+                {
+                 "steps":"1/2 pinapple"
+                }
+                ]
+     },
+     {
+       "id":"j13",
+       "Name":"Juice ForAnemia",
+       "image":"Anemia",
+        "YoutubeURL":"",
+       "description":"I recommend this juice for anyone suffering from anemia, hair loss, bad skin, or low energy. This juice has so many veggies that will benefit you immensely. All the nutrients will be absorbed into your bloodstream faster and you will receive tons of important vitamins and minerals that you need.",
+       "Method":[
+                {
+                 "steps":"Peel the lemon and discard the peel. Place all of the ingredients in a juice extractor, and enjoy!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1 beet"
+                },
+                {
+                 "steps":"3 kale leaves"
+                },
+                {
+                 "steps":"5 celery stalks"
+                },
+                {
+                 "steps":"2 young coconuts"
+                },
+                {
+                 "steps":"5 carrots"
+                },
+                {
+                 "steps":"1 lemon"
+                },
+                {
+                 "steps":"1 piece of ginger"
+                }
+                ]
+     },
+     {
+       "id":"j14",
+       "Name":"Liver Cleansing Juice",
+       "image":"LiverCleanse",
+        "YoutubeURL":"",
+       "description":"Our organs are continually working, and adding more fresh juices to our diet helps to give them a rest and nourish our cells at the same time. This juice will help keep your liver clean so it can process blood more efficiently.",
+       "Method":[
+                {
+                 "steps":"Peel the grapefruit, then place all ingredients in a juice extractor, serve, and enjoy!."
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"1/3 red apple"
+                },
+                {
+                 "steps":"2 grapefruit"
+                },
+                {
+                 "steps":"1 beet"
+                },
+                {
+                 "steps":"1 cucumber"
+                },
+                {
+                 "steps":"1 celery stalk"
+                }
+                ]
+     },
+     {
+       "id":"j15",
+       "Name":"Nopal GreenJuice",
+       "image":"NopalGreenJuice",
+        "YoutubeURL":"",
+       "description":"Nopal comes from the cactus plant. It's very common in Mexico and is used to treat inflammation, internally and externally. We make this juice at home every morning because its refreshing, delicious, and a great way to start your day.",
+       "Method":[
+                {
+                 "steps":"Let's get juicing! Wash, peel, and cut ingredients. Place into juicer and juice away!"
+                }
+              ],
+      "Ingredients":[
+                {
+                 "steps":"4 oranges"
+                },
+                {
+                 "steps":"1/4 pineapple"
+                },
+                {
+                 "steps":"1 cucumber"
+                },
+                {
+                 "steps":"1 celery stalk"
+                },
+                {
+                 "steps":"2 nopales"
+                },
+                {
+                 "steps":"1 small bunch of parsley"
+                }
+                ]
+     },
+           {
+             "id":"j16",
+             "Name":"Passion Juice",
+             "image":"PassionJuice",
+              "YoutubeURL":"",
+             "description":"Get ready for a party in your mouth with this delightful combination. Passion fruit contains potassium, which will balance the sodium levels in your body. Another fantastic way to eat it is scooped over diced watermelon. Yum!",
+             "Method":[
+                      {
+                       "steps":"Juice the oranges. Cut the passion fruit in half and scoop out the insides, then mix the insides with the orange juice."
+                      }
+
+                    ],
+            "Ingredients":[
+                      {
+                       "steps":"8 oranges "
+                      },
+                      {
+                       "steps":"8 passion fruit"
+                      }
+                      ]
+           },
+            {
+             "id":"j17",
+             "Name":"Pomegranate Mimosas",
+             "image":"PomegranateMimosas",
+              "YoutubeURL":"",
+             "description":"Looking for something bright, tangy, and refreshing? Look no further! This brightly colored juice perfectly balances sweet and tart notes for a drink that's perfect for a summer brunch.",
+             "Method":[
+                      {
+                       "steps":"Use a citrus juicer to make pomegranate juice. Cut the pomegranate in half and juice it the way you would juice an orange. Juice the oranges the same way."
+                      },
+                      {
+                       "steps":"Juice the pineapple in a normal juicer."
+                      },
+                      {
+                       "steps":"Pour all of the juices into a pitcher and mix well. Fill up some of your favorite glasses and enjoy."
+                      }
+                    ],
+            "Ingredients":[
+                      {
+                       "steps":"1 small pineapple"
+                      },
+                      {
+                       "steps":"5 oranges"
+                      },
+                      {
+                       "steps":"2 pomegranates"
+                      }
+                      ]
+           },
+            {
+             "id":"j18",
+             "Name":"Radiant Skin",
+             "image":"RadiantSkin",
+              "YoutubeURL":"",
+             "description":"This juice is so good for your skin! Remember that the skin is a reflection of what is going on inside of the body. The more fruits and veggies and raw foods you eat, the more benefits you will see in your skin and overall health. So drink this juice and watch your skin glow!",
+             "Method":[
+                      {
+                       "steps":"Place all ingredients in a juice extractor, including ginger to taste, and enjoy!"
+                      }
+                    ],
+            "Ingredients":[
+                      {
+                       "steps":"1 sweet potato"
+                      },
+                      {
+                       "steps":"1 cucumber"
+                      },
+                      {
+                       "steps":"1 1/2 cups pineapple"
+                      },
+                      {
+                       "steps":"ginger"
+                      }
+                      ]
+           },
+      {
+             "id":"j19",
+             "Name":"Super Green Juice",
+             "image":"SuperGreenJuice",
+              "YoutubeURL":"",
+             "description":"This green juice is so refreshing and good! It's my favorite in the morning to accompany some fruit. It's full of minerals like iron, calcium, protein, and vitamin A. Drink this outside in the sun and get some vitamin D in there too! It will fill you with glee.",
+             "Method":[
+                      {
+                       "steps":"Nutrient up! Place all the ingredients in a juice extractor, and it's done!"
+                      }
+                    ],
+            "Ingredients":[
+                      {
+                       "steps":"1 large cucumber"
+                      },
+                      {
+                       "steps":"2 cups spinach"
+                      },
+                      {
+                       "steps":"3 kale leaves"
+                      },
+                      {
+                       "steps":"4 celery stalks"
+                      },
+                      {
+                       "steps":"1 small bunch of parsley"
+                      }
+                      ]
+           }
+
+
+
+           ]
+}

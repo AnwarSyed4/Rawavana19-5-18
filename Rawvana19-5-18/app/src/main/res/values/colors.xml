@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#425e9c</color>
+    <color name="colorPrimaryDark">#425e9c</color>
+    <color name="colorAccent">#425e9c</color>
+    <!--<color name="theme">#fc5858</color>-->
+    <color name="theme">#425e9c</color>
+    <color name="themeDark">#334c83</color>
+    <color name="theme20">#14425e9c</color>
+    <color name="theme50">#32425e9c</color>
+    <color name="theme150">#96425e9c</color>
+    <color name="theme200">#c8425e9c</color>
+    <color name="themeSimilarColor">#3c66c4</color>
+    <color name="themeSimilarColorLight">#6f91dc</color>
+    <color name="themeSimilarColorDark">#2c53ab</color>
+    <color name="white">#ffffffff</color>
+    <color name="white50">#32ffffff</color>
+    <color name="white100">#64ffffff</color>
+    <color name="white150">#96ffffff</color>
+    <color name="white200">#c8ffffff</color>
+    <color name="whiteLight">#f4f4f4</color>
+    <color name="sky_blue">#2596f2</color>
+    <color name="red">#ff0004</color>
+    <color name="green">#6dc457</color>
+    <color name="black">#000000</color>
+    <color name="black150">#96000000</color>
+    <color name="black50">#32000000</color>
+    <color name="color111">#111111</color>
+    <color name="color222">#222222</color>
+    <color name="color333">#333333</color>
+    <color name="color444">#444444</color>
+    <color name="color555">#555555</color>
+    <color name="color666">#666666</color>
+    <color name="color777">#777777</color>
+    <color name="color888">#888888</color>
+    <color name="color999">#999999</color>
+    <color name="color_aaa">#aaaaaa</color>
+    <color name="color_bbb">#bbbbbb</color>
+    <color name="color_ccc">#cccccc</color>
+    <color name="color_ddd">#dddddd</color>
+    <color name="color_eee">#eeeeee</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent20">#14000000</color>
+    <color name="transparent30">#1e000000</color>
+    <color name="transparent40">#28000000</color>
+    <color name="transparent50">#32000000</color>
+    <color name="transparent100">#1b000000</color>
+    <color name="transparent150">#96000000</color>
+    <color name="transparent200">#c8000000</color>
+
+    <!--Indigo 500-->
+    <!--<color name="apptheme">#f89f8f</color>-->
+    <color name="apptheme">#E31E79</color>
+    <!--Indigo 700-->
+    <color name="primary_700">#303F9F</color>
+
+
+    <color name="test">#666666</color>
+    <color name="test1">#fdc95b</color>
+    <color name="test2">#E31E79</color>
+    <color name="test3">#8c557c</color>
+
+
+</resources>
